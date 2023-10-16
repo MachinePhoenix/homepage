@@ -267,10 +267,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Physics Subject Camp Counselor 
-          company: SJTU  
-          date_start: '2020-09-01'
-          date_end: '2021-01-01'
 
         - title: School Table Tennis Team Member
           company: SJTU
@@ -301,7 +297,11 @@ sections:
 
               * Second Place in the Men's 4$\times$100-Meter Relay at the School Sports Meet in 2020.
               * First Place in the Men's 4$\times$100-Meter Relay at the 2021 Track and Field Athletics Meet.
-          
+        
+        - title: Physics Subject Camp Counselor 
+          company: SJTU  
+          date_start: '2020-09-01'
+          date_end: '2021-01-01'
     design:
       columns: '2'
   # - block: collection

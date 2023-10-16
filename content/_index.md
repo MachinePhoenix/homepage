@@ -297,8 +297,8 @@ sections:
           description: |2-
               Contributions include:
 
-              * Second Place in the Men's 4*100-Meter Relay at the School Sports Meet in 2020.
-              * First Place in the Men's 4*100-Meter Relay at the 2021 Track and Field Athletics Meet.
+              * Second Place in the Men's 4$\times$100-Meter Relay at the School Sports Meet in 2020.
+              * First Place in the Men's 4$\times$100-Meter Relay at the 2021 Track and Field Athletics Meet.
         
         - title: Physics Subject Camp Counselor 
           company: SJTU  

@@ -266,7 +266,8 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  
+
+  # #todo contact
   # - block: contact
   #   id: contact
   #   content:

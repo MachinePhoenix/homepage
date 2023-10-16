@@ -1,7 +1,16 @@
 ---
 title: "Why Adversarial Training of ReLU Networks Is Difficult?"
 authors:
-- "Xu Cheng, Hao Zhang, Yue Xin, Wen Shen, Jie Ren, Quanshi Zhang"
+- Xu Cheng
+- Hao Zhang
+- admin
+- Wen Shen
+- Jie Ren
+- Quanshi Zhang
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2022-05-30T00:00:00Z"
 doi: ""
 

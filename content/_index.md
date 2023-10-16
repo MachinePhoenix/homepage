@@ -188,7 +188,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: citation
+      view: compact
       columns: '1'
   # - block: portfolio
   #   id: projects

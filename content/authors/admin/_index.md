@@ -26,8 +26,8 @@ bio: My research interests include machine learning, interpretable AI and comput
 
 # Interests to show in About widget
 interests:
-  - Interpretable AI
   - Machine Learning
+  - Interpretable AI
   - Computer Vision
 
 # Education to show in About widget
@@ -50,25 +50,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/machine_ph26980
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=AAMp54AAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/MachinePhoenix
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/xy_cv_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xinyuexiong@sjtu.edu.cn'
@@ -77,5 +77,4 @@ email: 'xinyuexiong@sjtu.edu.cn'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Yue Xin is a M.S. student at [min](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 

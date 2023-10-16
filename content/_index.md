@@ -189,7 +189,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: list
       columns: '1'
   # - block: portfolio
   #   id: projects

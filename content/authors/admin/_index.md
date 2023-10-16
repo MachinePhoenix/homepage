@@ -71,7 +71,7 @@ social:
   #   link: uploads/xy_cv_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xinyuexiong@sjtu.edu.cn'
+email: <xinyuexiong@sjtu.edu.cn>
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -79,4 +79,4 @@ highlight_name: true
 
 Yue Xin is a M.S. student at [min](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
 
-Download my [CV](uploads/xy_cv_en.pdf):
+Download my [CV](uploads/xy_cv_en.pdf).

@@ -60,6 +60,7 @@ sections:
     #       icon: camera-retro
     #       icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Research Experience
       # Date format for experience
@@ -164,9 +165,9 @@ sections:
 
   #原posts模板，可用于publications
   - block: collection
-    id: Publications
+    id: publication
     content:
-      title: Recent Posts
+      title: Publications
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -256,6 +257,7 @@ sections:
   #     view: citation
   
   - block: experience
+    id: activity
     content:
       title: Activities and Leaderships
       # Date format for experience

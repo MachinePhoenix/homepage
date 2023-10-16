@@ -161,6 +161,8 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
+
+  #posts模板，可用于publications
   - block: collection
     id: posts
     content:
@@ -172,7 +174,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - publication
         author: ""
         category: ""
         tag: ""

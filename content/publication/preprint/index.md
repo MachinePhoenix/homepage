@@ -27,8 +27,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://arxiv.org/abs/2205.15130
 # url_code: ''
 # url_dataset: ''

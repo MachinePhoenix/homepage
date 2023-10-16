@@ -162,9 +162,9 @@ sections:
   #   design:
   #     columns: '2'
 
-  #posts模板，可用于publications
+  #原posts模板，可用于publications
   - block: collection
-    id: posts
+    id: Publications
     content:
       title: Recent Posts
       subtitle: ''
@@ -239,16 +239,17 @@ sections:
   #     columns: '2'
   #     view: card
 
+  #原publication模板，适合posts
   - block: collection
     content:
-      title: Publications
+      title: Recent Posts
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          - post
         exclude_featured: false
     design:
       columns: '2'

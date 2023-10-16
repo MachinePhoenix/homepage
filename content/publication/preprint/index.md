@@ -22,8 +22,8 @@ abstract: This paper mathematically derives an analytic solution of the adversar
 # Summary. An optional shortened abstract.
 summary: Adversarial Training, ReLU Network, Hessian Matrix.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 links:

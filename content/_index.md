@@ -36,6 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+    
   - block: about.biography
     id: about
     content:
@@ -73,7 +74,7 @@ sections:
         - title: Master's Student 
           company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: 'min.png'
+          company_logo: "min.png"
           location: Shanghai, China
           date_start: '2023-09-11'
           date_end: ''

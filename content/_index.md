@@ -255,15 +255,55 @@ sections:
   #     columns: '2'
   #     view: citation
   
-  - block: collection
+  - block: experience
     content:
-      title: Activities and Experience
-      filters:
-       folders:
-        - activity
+      title: Activities and Leaderships
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Physics Subject Camp Counselor 
+          company: SJTU  
+          date_start: '2020-09-01'
+          date_end: '2021-01-01'
+
+        - title: School Table Tennis Team Member
+          company: SJTU
+          date_start: '2019-09-01'
+          date_end: ''
+        
+        - title: College Table Tennis Team Captain
+          company: School of Electronic Information and Electrical Engineering, SJTU
+          date_start: '2021-09-01'
+          date_end: ''
+          description: |2-
+              Contributions include:
+
+              * Third Place in the Team Category at the Tizong Cup in 2021.
+              * Second Place in the Team Category at the School Sports Meet in 2022.
+        
+        - title: College Table Tennis Team and Club Head Coach
+          company: Zhiyuan College, SJTU
+          date_start: '2021-09-01'
+          date_end: ''
+        
+        - title: School Track and Field Team Member
+          company: SJTU
+          date_start: '2020-09-01'
+          date_end: '2021-05-01'
+          description: |2-
+              Contributions include:
+
+              * Second Place in the Men's 4$\times$100-Meter Relay at the School Sports Meet in 2020.
+              * First Place in the Men's 4$\times$100-Meter Relay at the 2021 Track and Field Athletics Meet.
+          
     design:
-     columns: '1'
-     view: citation
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:

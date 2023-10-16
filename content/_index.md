@@ -253,6 +253,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  
+  - block: collection
+    content:
+      title: Activities and Experience
+      filters:
+       folders:
+        - activity
+    design:
+     columns: '2'
+     view: citation
   # - block: collection
   #   id: talks
   #   content:

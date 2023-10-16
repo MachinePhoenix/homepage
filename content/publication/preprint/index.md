@@ -42,7 +42,7 @@ url_pdf: https://arxiv.org/abs/2205.15130
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  name: 'article1.png'
+  #name: 'article1.png'
   caption: ''
   focal_point: ""
   preview_only: false

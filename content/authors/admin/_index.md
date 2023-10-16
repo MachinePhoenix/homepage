@@ -66,9 +66,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/xy_cv_en.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/xy_cv_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xinyuexiong@sjtu.edu.cn'
@@ -78,3 +78,5 @@ highlight_name: true
 ---
 
 Yue Xin is a M.S. student at [min](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
+
+Download my [CV](uploads/xy_cv_en.pdf):

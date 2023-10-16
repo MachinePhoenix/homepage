@@ -190,7 +190,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
@@ -305,7 +305,7 @@ sections:
           date_start: '2020-09-01'
           date_end: '2021-01-01'
     design:
-      columns: '2'
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:

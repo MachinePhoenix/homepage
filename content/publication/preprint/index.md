@@ -21,7 +21,7 @@ abstract: This paper mathematically derives an analytic solution of the adversar
 few samples, and boosts the difficulty of adversarial training. Crucially, our proofs provide a unified explanation for previous findings in understanding adversarial training.
 
 # Summary. An optional shortened abstract.
-summary: Adversarial Training, ReLU Network, Hessian Matrix.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -30,7 +30,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://arxiv.org/abs/2205.15130
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: '#'
 url_poster: '#'

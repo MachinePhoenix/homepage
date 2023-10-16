@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Why Adversarial Training of ReLU Networks Is Difficult?"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- "Xu Cheng, Hao Zhang, Yue Xin, Wen Shen, Jie Ren, Quanshi Zhang"
+date: "2022-05-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

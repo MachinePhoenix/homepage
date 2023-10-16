@@ -72,7 +72,7 @@ sections:
       items:
         - title: Master's Student
           company: Institute of Media, Information and Network (min), SJTU
-          company_url: 'https://min.sjtu.edu.cn/'
+          company_url: ''
           company_logo: org-gc
           location: Shanghai, China
           date_start: '2023-09-11'
@@ -85,7 +85,7 @@ sections:
 
         - title: Machine Learning and Computer Vision Intern
           company: Institute of Media, Information and Network (min), SJTU
-          company_url: 'https://min.sjtu.edu.cn/'
+          company_url: ''
           company_logo: org-x
           location: Shanghai, China
           date_start: '2022-11-1'

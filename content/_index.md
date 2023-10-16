@@ -78,10 +78,10 @@ sections:
           date_start: '2023-09-11'
           date_end: ''
           description: |2-
-              Researches includes:
+              Researches include:
 
-              * Deep learning methods for nonlinear fitting of implicit function optimization
-              * Interpretable machine learning
+              * Deep learning methods for nonlinear fitting of implicit function optimization.
+              * Interpretable machine learning.
 
         - title: Machine Learning and Computer Vision Intern
           company: Institute of Media, Information and Network (min), SJTU
@@ -91,6 +91,34 @@ sections:
           date_start: '2022-11-01'
           date_end: '2023-09-11'
           description: Research on deep learning methods for nonlinear fitting of implicit function optimization.
+        
+        - title: Interpretable Machine Learning Intern
+          company: Interpretable ML Lab, SJTU
+          company_url: 'https://sjtu-xai-lab.github.io/'
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2022-02-01'
+          date_end: '2023-11-01'
+          description: |2-
+              Researches include:
+
+              * Explaining the reasons behind the challenges in adversarial training(Submitted for AAAI 2024).
+              * Dynamics of interactive learning.
+              * Robustness analysis of various complexity concepts.
+        
+        - title: Machine Learning and Computer Vision Intern
+          company: SunnyLab, SJTU
+          company_url: ''
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2021-05-01'
+          date_end: '2022-05-01'
+          description: |2-
+              Researches include:
+
+              * Swin Transformer-Based workpiece welding area instance segmentation.
+              * Space-Time filtering for false positive removal in pedestrian detection.
+              * YOLOv5-Based tower crane detection and dangerous tower crane Recognition, hoist detection, and electronic fence labeling.
     design:
       columns: '2'
   - block: accomplishments

@@ -278,7 +278,7 @@ sections:
       phone: (+86) 19821286629
       #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: No. 800 Dongchuan Road
         city: Shanghai
         region: Minhang
         postcode: '200240'

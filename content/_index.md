@@ -70,15 +70,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Student
-          company: Institute of Media, Information and Network (min), SJTU
+        - title: Master's Student (advisor Hongkai Xiong)
+          company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
           company_logo: org-gc
           location: Shanghai, China
           date_start: '2023-09-11'
           date_end: ''
           description: |2-
-              Researches include:
+              Advised by [Pro. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Pro. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
               * Deep learning methods for nonlinear fitting of implicit function optimization.
               * Interpretable machine learning.

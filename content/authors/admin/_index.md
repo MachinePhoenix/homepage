@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.S. of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:

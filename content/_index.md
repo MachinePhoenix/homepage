@@ -73,7 +73,7 @@ sections:
         - title: Master's Student 
           company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: org-gc
+          company_logo: 'min.png'
           location: Shanghai, China
           date_start: '2023-09-11'
           date_end: ''

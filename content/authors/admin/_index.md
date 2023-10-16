@@ -36,7 +36,7 @@ education:
     - course: M.S. in Information and Communication Engineering
       institution: SJTU
       year: 2023
-    - course: BSc in Electronic Science and Technology
+    - course: B.S. in Electronic Science and Technology (major) and Computer Science and Technology (minor)
       institution: SJTU
       year: 2019
 

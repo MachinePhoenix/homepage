@@ -74,7 +74,7 @@ sections:
         - title: Master's Student 
           company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: "min.png"
+          company_logo: min
           location: Shanghai, China
           date_start: '2023-09-11'
           date_end: ''
@@ -87,7 +87,7 @@ sections:
         - title: Machine Learning and Computer Vision Intern
           company: Institute of Media, Information and Network (min), SJTU
           company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: org-x
+          company_logo: min
           location: Shanghai, China
           date_start: '2022-11-01'
           date_end: '2023-09-11'
@@ -96,7 +96,7 @@ sections:
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
           company_url: 'https://sjtu-xai-lab.github.io/'
-          company_logo: org-x
+          company_logo: sjtu
           location: Shanghai, China
           date_start: '2022-02-01'
           date_end: '2023-11-01'
@@ -110,7 +110,7 @@ sections:
         - title: Machine Learning and Computer Vision Intern
           company: SunnyLab, SJTU
           company_url: ''
-          company_logo: org-x
+          company_logo: sjtu
           location: Shanghai, China
           date_start: '2021-05-01'
           date_end: '2022-05-01'

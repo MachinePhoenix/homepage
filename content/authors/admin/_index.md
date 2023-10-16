@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.S. in Information and Communication Engineering
+role:  忻岳 | First-year Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:

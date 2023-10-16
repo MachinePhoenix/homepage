@@ -70,7 +70,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Student (advisor Hongkai Xiong)
+        - title: Master's Student 
           company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
           company_logo: org-gc
@@ -90,7 +90,7 @@ sections:
           location: Shanghai, China
           date_start: '2022-11-01'
           date_end: '2023-09-11'
-          description: Research on deep learning methods for nonlinear fitting of implicit function optimization.
+          description: Advised by [Pro. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Pro. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), I mainly did the research on deep learning methods for nonlinear fitting of implicit function optimization.
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
@@ -100,7 +100,7 @@ sections:
           date_start: '2022-02-01'
           date_end: '2023-11-01'
           description: |2-
-              Researches include:
+              Advised by [Pro. Quanshi Zhang](http://qszhang.com/), my researches include:
 
               * Explaining the reasons behind the challenges in adversarial training(Submitted for AAAI 2024).
               * Dynamics of interactive learning.
@@ -114,7 +114,7 @@ sections:
           date_start: '2021-05-01'
           date_end: '2022-05-01'
           description: |2-
-              Researches include:
+              Advised by [Pro. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
 
               * Swin Transformer-Based workpiece welding area instance segmentation.
               * Space-Time filtering for false positive removal in pedestrian detection.

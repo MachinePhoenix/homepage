@@ -246,7 +246,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - /publication/preprint
+          - [](./publication/preprint)
         exclude_featured: true
     design:
       columns: '2'

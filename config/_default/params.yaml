@@ -8,8 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font family: New Century Schoolbook
-  font: Times
+  font: dark
   font_size: L
 
 # SEO

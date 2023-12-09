@@ -47,9 +47,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: Programming and Frameworksc
+        - name: Programming and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux; PyTorch, NumPy, Anaconda, Git, OpenCV
-          icon: r-project
+          icon: min
           icon_pack: fab
         - name: Mathematics
           description: calculus, linear algebra, probability statistics

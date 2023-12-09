@@ -58,7 +58,7 @@ sections:
           icon_pack: fas
         - name: Language
           description: mandarin (native), English (fluent)
-          icon: address-card
+          icon: language
           icon_pack: fas
   - block: experience
     id: experience

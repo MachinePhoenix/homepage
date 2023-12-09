@@ -50,11 +50,11 @@ sections:
       items:
         - name: Programming Languages and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-          icon: keyboard
+          icon: laptop-code
           icon_pack: fas
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
-          icon: 
+          icon: pi
           icon_pack: fas
         - name: Language
           description: mandarin (native), English (fluent)

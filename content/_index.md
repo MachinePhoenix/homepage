@@ -50,8 +50,8 @@ sections:
       items:
         - name: Programming Languages and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-          icon: cv
-          icon_pack: ai
+          icon: equals
+          icon_pack: fas
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
           icon: 

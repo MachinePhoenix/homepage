@@ -44,11 +44,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
-    id: Skills
+    id: skills
     content:
       title: Skills
       items:
-        - name: Programming and Frameworks
+        - name: Programming Languages and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
           icon: 
           icon_pack: fas

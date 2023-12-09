@@ -36,7 +36,7 @@ education:
     - course: M.S. in Information and Communication Engineering
       institution: SJTU
       year: 2023
-      Advised by Prof. Hongkai Xiong and Prof. Wenrui Dai
+      * Advised by Prof. Hongkai Xiong and Prof. Wenrui Dai
     - course: B.S. in Electronic Science and Technology (major) and Computer Science and Technology (minor)
       institution: SJTU
       year: 2019

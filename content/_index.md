@@ -54,11 +54,11 @@ sections:
           icon_pack: fas
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
-          icon: pi
+          icon: square-root-variable
           icon_pack: fas
         - name: Language
           description: mandarin (native), English (fluent)
-          icon: 
+          icon: address-card
           icon_pack: fas
   - block: experience
     id: experience

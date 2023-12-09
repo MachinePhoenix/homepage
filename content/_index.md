@@ -71,7 +71,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
-  
   - block: experience
     id: experience
     content:
@@ -128,6 +127,23 @@ sections:
               * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
+  - block: features
+    id: skills
+    content:
+      title: Skills
+      items:
+        - name: Programming Languages and Frameworks
+          description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
+          icon: laptop-code
+          icon_pack: fas
+        - name: Mathematics
+          description: calculus, linear algebra, probability statistics
+          icon: square-root-variable
+          icon_pack: fas
+        - name: Language
+          description: mandarin (native), English (fluent)
+          icon: language
+          icon_pack: fas
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -167,23 +183,6 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: features
-      id: skills
-      content:
-        title: Skills
-        items:
-          - name: Programming Languages and Frameworks
-            description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-            icon: laptop-code
-            icon_pack: fas
-          - name: Mathematics
-            description: calculus, linear algebra, probability statistics
-            icon: square-root-variable
-            icon_pack: fas
-          - name: Language
-            description: mandarin (native), English (fluent)
-            icon: language
-            icon_pack: fas
   
   # - block: portfolio
   #   id: projects

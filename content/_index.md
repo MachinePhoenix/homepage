@@ -47,16 +47,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Programming and Frameworksc
+          description: Python, C++, Matlab, LaTeX, Linux; PyTorch, NumPy, Anaconda, Git, OpenCV
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Mathematics
+          description: calculus, linear algebra, probability statistics
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Language
+          description: mandarin (native), English (fluent)
           icon: camera-retro
           icon_pack: fas
   - block: experience

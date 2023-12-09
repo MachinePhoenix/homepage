@@ -48,8 +48,7 @@ sections:
       title: Skills
       items:
         - name: Programming and Frameworks
-          description: Python, C++, Matlab, \LaTeX, Linux
-          PyTorch, NumPy, Anaconda, Git, OpenCV
+          description: Python, C++, Matlab, \LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
           icon: min
           icon_pack: fab
         - name: Mathematics

@@ -72,27 +72,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Student 
+        - title: Machine Learning and Computer Vision Intern and Master's Student 
           company: Institute of Media, Information and Network (min), SJTU  
           company_url: 'https://min.sjtu.edu.cn/'
           company_logo: min
           location: Shanghai, China
-          date_start: '2023-09-11'
+          date_start: '2022-11-01'
           date_end: ''
           description: |2-
-              Advised by [Pro. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Pro. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
+              Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
-              * Deep learning methods for nonlinear fitting of implicit function optimization.
-              * Interpretable machine learning.
-
-        - title: Machine Learning and Computer Vision Intern
-          company: Institute of Media, Information and Network (min), SJTU
-          company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: min
-          location: Shanghai, China
-          date_start: '2022-11-01'
-          date_end: '2023-09-11'
-          description: Advised by [Pro. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Pro. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), I mainly did the research on deep learning methods for nonlinear fitting of implicit function optimization.
+              * Utilized various techniques and selected the best one (Chebyshev polynomials) to fit the activation functions in DNNs.
+              * Developped implicit-layer networks to accelarate optimization convergence.
+              * Embedded the fitted polynomial activation functions into implicit-layer networks to improve performance while enhance the interpretability of the network. (Preparing submission for ICML 2024)
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
@@ -102,11 +94,11 @@ sections:
           date_start: '2022-02-01'
           date_end: '2023-11-01'
           description: |2-
-              Advised by [Pro. Quanshi Zhang](http://qszhang.com/), my researches include:
+              Advised by [Prof. Quanshi Zhang](http://qszhang.com/), my researches include:
 
-              * Explaining the reasons behind the challenges in adversarial training(Submitted for AAAI 2024).
-              * Dynamics of interactive learning.
-              * Robustness analysis of various complexity concepts.
+              * Used high-dimensional matrix analysis to clarify the challenges in adversarial training. (Accepted by AAAI 2024)
+              * Derived the dynamics characteristics in interactive learning. (Preparing for submission)
+              * Designed experimental methods to analyze the robustness of various complexity concepts.
         
         - title: Machine Learning and Computer Vision Intern
           company: SunnyLab, SJTU
@@ -116,11 +108,11 @@ sections:
           date_start: '2021-05-01'
           date_end: '2022-05-01'
           description: |2-
-              Advised by [Pro. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
+              Advised by [Prof. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
 
-              * Swin Transformer-Based workpiece welding area instance segmentation.
-              * Space-Time filtering for false positive removal in pedestrian detection.
-              * YOLOv5-Based tower crane detection and dangerous tower crane Recognition, hoist detection, and electronic fence labeling.
+              * Developped Swin Transformer based model to implemente instance segmentation of workpiece welding area.
+              * Designed a space-time filter to remove false positive samples in pedestrian detection.
+              * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
   # - block: accomplishments

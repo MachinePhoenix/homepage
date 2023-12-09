@@ -48,16 +48,16 @@ sections:
       title: Skills
       items:
         - name: Programming and Frameworks
-          description: Python, C++, Matlab, \LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-          icon: min
-          icon_pack: fab
+          description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
+          icon: 
+          icon_pack: fas
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
-          icon: chart-line
+          icon: 
           icon_pack: fas
         - name: Language
           description: mandarin (native), English (fluent)
-          icon: camera-retro
+          icon: 
           icon_pack: fas
   - block: experience
     id: experience

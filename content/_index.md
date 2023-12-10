@@ -207,7 +207,7 @@ sections:
     content:
       title: Honors and Awards
       text: 
-       * Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
+       Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

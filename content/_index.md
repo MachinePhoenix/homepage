@@ -216,10 +216,8 @@ sections:
       items:
         - name: Programming Languages and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-          # icon: laptop-code
-          # icon_pack: fas
-          icon: shuxue
-          icon_pack: custom
+          icon: laptop-code
+          icon_pack: fas
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
           icon: square-root-variable

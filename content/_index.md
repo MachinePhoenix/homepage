@@ -85,7 +85,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: comap
+          icon: custom/comap
           organization: World level, Meritorious Winner (First Prize)
           organization_url: https://www.comap.com/
           url: ''
@@ -94,7 +94,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: huawei
+          icon: custom/huawei
           organization: Nation level, Third Place
           organization_url: https://developer.huaweicloud.com/contest/ysxf-AI.html
           url: ''
@@ -103,7 +103,7 @@ sections:
           date_end: ''
           date_start: '2020-01-01'
           description: ''
-          icon: shuxue
+          icon: custom/shuxue
           organization: City level, First Prize
           organization_url: http://www.cmathc.cn/
           url: ''

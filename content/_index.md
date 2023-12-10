@@ -202,25 +202,93 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-   
-  - block: markdown
+  
+  - block: accomplishments
+    id: honor
     content:
       title: Honors and Awards
-      subtitle: 
-      text: |>
-       Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
-       
-       National Scholarship, Nation level, 2\%, 2021
-       
-       Shanghai Jiao Tong University A-Class Excellent Scholarship for Undergraduate, University level, 2\%, 2021
-       
-       Shenzhen Stock Exchange Scholarship, University level, 2\%, 2020
-       
-       Shanghai Jiao Tong University B-Class Excellent Scholarship for Undergraduate, University level, 5\%, 2020
+      subtitle: ''
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Outstanding Undergraduate Graduate of Shanghai Jiao Tong University
+          certificate_url: ''
+          date_end: ''
+          date_start: '2023-01-01'
+          description: ''
+          icon: 
+          #icon_pack: custom
+          organization: University level, 5\%
+          organization_url: 
+          url: ''
+        - title: National Scholarship
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          icon: 
+          #icon_pack: custom
+          organization: Nation level, 2\%
+          organization_url: 
+          url: ''
+        - title: Shanghai Jiao Tong University A-Class Excellent Scholarship for Undergraduate
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          icon: 
+          #icon_pack: custom
+          organization: University level, 2\%
+          organization_url: 
+          url: ''
+        - title: Shenzhen Stock Exchange Scholarship
+          certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          icon: 
+          #icon_pack: custom
+          organization: University level, 2\%
+          organization_url: 
+          url: ''
+        - title: Shanghai Jiao Tong University B-Class Excellent Scholarship for Undergraduate
+          certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          icon: 
+          #icon_pack: custom
+          organization: University level, 5\%
+          organization_url: 
+          url: ''
     design:
-      # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
+   
+  # - block: markdown
+  #   content:
+  #     title: Honors and Awards
+  #     subtitle: 
+  #     text: 
+  #      Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
+       
+  #      National Scholarship, Nation level, 2\%, 2021
+       
+  #      Shanghai Jiao Tong University A-Class Excellent Scholarship for Undergraduate, University level, 2\%, 2021
+       
+  #      Shenzhen Stock Exchange Scholarship, University level, 2\%, 2020
+       
+  #      Shanghai Jiao Tong University B-Class Excellent Scholarship for Undergraduate, University level, 5\%, 2020
+  #   design:
+  #     # See Page Builder docs for all section customization options.
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
   
   - block: features
     id: skills

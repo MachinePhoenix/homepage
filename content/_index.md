@@ -76,7 +76,7 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: custom/yan
+          icon: yan
           #icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
@@ -216,8 +216,10 @@ sections:
       items:
         - name: Programming Languages and Frameworks
           description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
-          icon: laptop-code
-          icon_pack: fas
+          # icon: laptop-code
+          # icon_pack: fas
+          icon: shuxue
+          icon_pack: custom
         - name: Mathematics
           description: calculus, linear algebra, probability statistics
           icon: square-root-variable

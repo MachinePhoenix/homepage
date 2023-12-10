@@ -217,10 +217,7 @@ sections:
        Shenzhen Stock Exchange Scholarship, University level, 2\%, 2020
        
        Shanghai Jiao Tong University B-Class Excellent Scholarship for Undergraduate, University level, 5\%, 2020
-       description: |2-
-
-       * Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
-       
+       description: lalala
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

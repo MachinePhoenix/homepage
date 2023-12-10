@@ -144,6 +144,7 @@ sections:
     design:
       columns: '1'
   - block: accomplishments
+    id: competition
     content:
       title: Competitions
       subtitle: ''

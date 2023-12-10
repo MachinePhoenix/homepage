@@ -204,10 +204,10 @@ sections:
       columns: '2'
    
    - block: markdown
-    content:
-      title: Honors and Awards
+     content:
+      title: title
       subtitle: My subtitle
-      text: 
+      text: aaa
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

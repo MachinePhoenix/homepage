@@ -205,9 +205,14 @@ sections:
    
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Honors and Awards
+      subtitle: 
+      text: 
+       * Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
+       * National Scholarship, Nation level, 2\%, 2021
+       * Shanghai Jiao Tong University A-Class Excellent Scholarship for Undergraduate, University level, 2\%, 2021
+       * Shenzhen Stock Exchange Scholarship, University level, 2\%, 2020
+       * Shanghai Jiao Tong University B-Class Excellent Scholarship for Undergraduate, University level, 5\%, 2020
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

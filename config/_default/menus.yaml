@@ -16,12 +16,15 @@ main:
   - name: Competitions
     url: '#competition'
     weight: 50
+  - name: Honors
+    url: '#honor'
+    weight: 60
   - name: Skills
     url: '#skills'
-    weight: 60
+    weight: 70
   - name: Activities
     url: '#activity'
-    weight: 70
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

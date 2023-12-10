@@ -50,14 +50,6 @@ sections:
   #     # Choose a user profile to display (a folder name within `content/authors/`)
   #     username: admin
   
-  # - block: markdown
-  #   content:
-  #     title: Academic Competitions
-  #     text: The 20th Chinese Graduate Mathematical Modeling Competition \qquad Nation level, Second Prize \qquad 2023
-  #   design:
-  #     # See Page Builder docs for all section customization options.
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
   
     #原posts模板，可用于publications
   - block: collection
@@ -211,6 +203,15 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
    
+   - block: markdown
+    content:
+      title: Honors and Awards
+      text: 
+       * Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, University level, 5\%, 2023
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   
   - block: features
     id: skills

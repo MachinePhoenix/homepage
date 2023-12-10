@@ -91,7 +91,7 @@ sections:
           organization: World level, Meritorious Winner (First Prize)
           organization_url: https://www.comap.com/
           url: ''
-        - title: The Huawei Cloud `Cloud Pioneers' Few-Shot Detection Competition
+        - title: The Huawei Cloud 'Cloud Pioneers' Few-Shot Detection Competition
           certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
@@ -111,7 +111,7 @@ sections:
           organization: City level, First Prize
           organization_url: http://www.cmathc.cn/
           url: ''
-        - title: The 2nd National `August 1st Cup' Online Mathematics Competition
+        - title: The 2nd National 'August 1st Cup' Online Mathematics Competition
           certificate_url: ''
           date_end: ''
           date_start: '2020-01-01'

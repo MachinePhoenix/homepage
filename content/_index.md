@@ -143,13 +143,12 @@ sections:
               * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
-    
+      
     - block: accomplishments
-      #id: competition
-      content:
+    content:
       title: Academic Competitions
-      # subtitle: ''
-      # text: ''
+      subtitle: ''
+      text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -211,7 +210,6 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-  
   - block: features
     id: skills
     content:

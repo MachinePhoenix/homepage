@@ -43,6 +43,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: about.biography
+    id: competition
+    content:
+      title: Competitions
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   #原posts模板，可用于publications
   - block: collection
     id: publication

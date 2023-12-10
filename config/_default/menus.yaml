@@ -13,12 +13,15 @@ main:
   - name: Research Experience
     url: '#experience'
     weight: 40
+  - name: Competitions
+    url: '#competition'
+    weight: 50
   - name: Skills
     url: '#skills'
-    weight: 50
+    weight: 60
   - name: Activities
     url: '#activity'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

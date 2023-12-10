@@ -206,7 +206,7 @@ sections:
    - block: markdown
     content:
       title: Honors and Awards
-      text: Outstanding Undergraduate Graduate of Shanghai Jiao Tong University, 
+      text: 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

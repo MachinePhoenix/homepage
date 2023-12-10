@@ -76,46 +76,51 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: custom/yan
+          icon: yan
+          icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
           url: ''
-        # - title: The Mathematical Contest in Modeling
-        #   certificate_url: ''
-        #   date_end: ''
-        #   date_start: '2021-01-01'
-        #   description: ''
-        #   icon: custom/comap
-        #   organization: World level, Meritorious Winner (First Prize)
-        #   organization_url: https://www.comap.com/
-        #   url: ''
-        # - title: The Huawei Cloud `Cloud Pioneers' Few-Shot Detection Competition
-        #   certificate_url: ''
-        #   date_end: ''
-        #   date_start: '2021-01-01'
-        #   description: ''
-        #   icon: custom/huawei
-        #   organization: Nation level, Third Place
-        #   organization_url: https://developer.huaweicloud.com/contest/ysxf-AI.html
-        #   url: ''
-        # - title: The 12th National College Student Mathematical Competition
-        #   certificate_url: ''
-        #   date_end: ''
-        #   date_start: '2020-01-01'
-        #   description: ''
-        #   icon: custom/shuxue
-        #   organization: City level, First Prize
-        #   organization_url: http://www.cmathc.cn/
-        #   url: ''
-        # - title: The 2nd National `August 1st Cup' Online Mathematics Competition
-        #   certificate_url: ''
-        #   date_end: ''
-        #   date_start: '2020-01-01'
-        #   description: ''
-        #   icon: custom/bayi
-        #   organization: Nation level, Tenth Place
-        #   organization_url: https://www.cnblogs.com/hoganbin/p/13581613.html
-        #   url: ''
+        - title: The Mathematical Contest in Modeling
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          icon: comap
+          icon_pack: custom
+          organization: World level, Meritorious Winner (First Prize)
+          organization_url: https://www.comap.com/
+          url: ''
+        - title: The Huawei Cloud `Cloud Pioneers' Few-Shot Detection Competition
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          icon: huawei
+          icon_pack: custom
+          organization: Nation level, Third Place
+          organization_url: https://developer.huaweicloud.com/contest/ysxf-AI.html
+          url: ''
+        - title: The 12th National College Student Mathematical Competition
+          certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          icon: shuxue
+          icon_pack: custom
+          organization: City level, First Prize
+          organization_url: http://www.cmathc.cn/
+          url: ''
+        - title: The 2nd National `August 1st Cup' Online Mathematics Competition
+          certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-01'
+          description: ''
+          icon: bayi
+          icon_pack: custom
+          organization: Nation level, Tenth Place
+          organization_url: https://www.cnblogs.com/hoganbin/p/13581613.html
+          url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

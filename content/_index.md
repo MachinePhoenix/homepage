@@ -206,6 +206,7 @@ sections:
    - block: markdown
     content:
       title: Honors and Awards
+      subtitle: My subtitle
       text: 
     design:
       # See Page Builder docs for all section customization options.

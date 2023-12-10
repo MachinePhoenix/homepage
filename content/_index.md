@@ -162,8 +162,8 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: yan
-          icon_pack: custom
+          # icon: yan
+          # icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
           url: ''
@@ -172,8 +172,8 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: comap
-          icon_pack: custom
+          # icon: comap
+          # icon_pack: custom
           organization: World level, Meritorious Winner (First Prize)
           organization_url: https://www.comap.com/
           url: ''
@@ -182,8 +182,8 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: huawei
-          icon_pack: custom
+          # icon: huawei
+          # icon_pack: custom
           organization: Nation level, Third Place
           organization_url: https://developer.huaweicloud.com/contest/ysxf-AI.html
           url: ''
@@ -192,8 +192,8 @@ sections:
           date_end: ''
           date_start: '2020-01-01'
           description: ''
-          icon: shuxue
-          icon_pack: custom
+          # icon: shuxue
+          # icon_pack: custom
           organization: City level, First Prize
           organization_url: http://www.cmathc.cn/
           url: ''
@@ -202,8 +202,8 @@ sections:
           date_end: ''
           date_start: '2020-01-01'
           description: ''
-          icon: bayi
-          icon_pack: custom
+          # icon: bayi
+          # icon_pack: custom
           organization: Nation level, Tenth Place
           organization_url: https://www.cnblogs.com/hoganbin/p/13581613.html
           url: ''

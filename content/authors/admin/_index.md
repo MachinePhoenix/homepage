@@ -36,6 +36,7 @@ education:
     - course: M.S. in Information and Communication Engineering
       institution: SJTU
       year: 2023
+      description: advised by Prof. Hongkai Xiong and Prof. Wenrui Dai
     - course: B.S. in Electronic Science and Technology (major) and Computer Science and Technology (minor)
       institution: SJTU
       year: 2019
@@ -77,7 +78,7 @@ email: <xinyuexiong@sjtu.edu.cn>
 highlight_name: true
 ---
 
-I am a first-year M.S. student at [min](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
+I am a first-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
 
 I have a keen interest in machine learning and interpretable artificial intelligence. My goal is to identify the fundamental optimization goal of deep learning and construct interpretable machine learning systems through mathematical derivations. Specifically, I aim to establish objective metrics to measure model performance and mathematically deduce the factors that contribute to model performance, guiding the design of neural network architectures.
 

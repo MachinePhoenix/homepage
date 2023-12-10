@@ -94,9 +94,9 @@ sections:
           date_end: ''
           date_start: '2021'
           description: ''
-          icon: 
+          icon: huawei
           organization: Nation level, Third Place
-          organization_url: 
+          organization_url: https://developer.huaweicloud.com/contest/ysxf-AI.html
           url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

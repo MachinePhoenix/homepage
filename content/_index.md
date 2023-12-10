@@ -76,7 +76,7 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: yan
+          icon: min
           #icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4

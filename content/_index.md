@@ -145,7 +145,7 @@ sections:
       columns: '1'
     
     - block: accomplishments
-      id: competition
+      #id: competition
       content:
       title: Academic Competitions
       # subtitle: ''

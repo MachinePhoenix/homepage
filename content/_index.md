@@ -60,7 +60,7 @@ sections:
   #     columns: '1'
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Competitions
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -71,11 +71,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
+        - title: The 20th Chinese Graduate Mathematical Modeling Competition
+          certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2023-11-14'
+          description: 'Nation level, Second Prize'
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org

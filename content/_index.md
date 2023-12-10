@@ -74,29 +74,29 @@ sections:
         - title: The 20th Chinese Graduate Mathematical Modeling Competition
           certificate_url: ''
           date_end: ''
-          date_start: '2023-11-14'
-          description: 'Nation level, Second Prize'
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          icon: yan
+          organization: Nation level, Second Prize
+          organization_url: https://cpipc.acge.org.cn/cw/hp/4
+          url: ''
+        - title: The Mathematical Contest in Modeling
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021'
+          description: ''
+          icon: comap
+          organization: World level, Meritorious Winner (First Prize)
+          organization_url: https://www.comap.com/
+          url: ''
+        - title: The Huawei Cloud `Cloud Pioneers' Few-Shot Detection Competition
+          certificate_url: ''
+          date_end: ''
+          date_start: '2021'
+          description: ''
+          icon: 
+          organization: Nation level, Third Place
+          organization_url: 
           url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

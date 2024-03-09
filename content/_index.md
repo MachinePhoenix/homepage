@@ -102,9 +102,7 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
-              * Utilized various techniques and selected the best one (Chebyshev polynomials) to fit the activation functions in DNNs.
-              * Developped implicit-layer networks to accelarate optimization convergence.
-              * Embedded the fitted polynomial activation functions into implicit-layer networks to improve performance while enhance the interpretability of the network. (Preparing submission for ICML 2024)
+              * Proposed ICPNet, a unified model capable of representing networks with arbitrary depths with fixed-point iteration layers and any activation function with Chebyshev polynomials, and verified its great properties. (submission for ECCV 2024)
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
@@ -434,7 +432,7 @@ sections:
         - title: College Table Tennis Team Captain
           company: School of Electronic Information and Electrical Engineering, SJTU
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2023-12-01'
           description: |2-
               Contributions include:
 

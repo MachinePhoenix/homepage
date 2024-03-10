@@ -9,11 +9,10 @@ authors:
 - Junni Zou
 - Hongkai Xiong
 
-author_notes:
-- "Equal contribution"
-
+# author_notes:
+# - "Equal contribution"
 data: "2024-03-08T00:00:00Z"
-doi: "
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

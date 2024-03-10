@@ -429,20 +429,22 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
         
-        - title: College Table Tennis Team Captain
-          company: School of Electronic Information and Electrical Engineering, SJTU
-          date_start: '2021-09-01'
-          date_end: '2023-12-01'
-          description: |2-
-              Contributions include:
-
-              * Third Place in the Team Category at the Tizong Cup in 2021.
-              * Second Place in the Team Category at the School Sports Meet in 2022.
+        
         
         - title: College Table Tennis Team and Club Head Coach
           company: Zhiyuan College, SJTU
           date_start: '2021-09-01'
           date_end: ''
+    
+        - title: College Table Tennis Team Captain
+              company: School of Electronic Information and Electrical Engineering, SJTU
+              date_start: '2021-09-01'
+              date_end: '2023-12-01'
+              description: |2-
+                  Contributions include:
+    
+                  * Third Place in the Team Category at the Tizong Cup in 2021.
+                  * Second Place in the Team Category at the School Sports Meet in 2022.
         
         - title: School Track and Field Team Member
           company: SJTU

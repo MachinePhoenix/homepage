@@ -77,8 +77,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '1'
+      view: citation
+      columns: '2'
   - block: experience
     id: experience
     content:

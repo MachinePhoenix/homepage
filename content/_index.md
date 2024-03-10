@@ -429,8 +429,6 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
         
-        
-        
         - title: College Table Tennis Team and Club Head Coach
           company: Zhiyuan College, SJTU
           date_start: '2021-09-01'

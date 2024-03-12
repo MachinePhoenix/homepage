@@ -103,6 +103,7 @@ sections:
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
               * Proposed ICPNet, a unified model capable of representing networks with arbitrary depths with fixed-point iteration layers and any activation function with Chebyshev polynomials, and verified its great properties. (submission for ECCV 2024)
+              * Validated the high similarity properties of parameter matrices in LoRa, thereby constructed low-rank decomposition which reduced the required parameter quantity for fine-tuning as well as enhanced performance.
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU

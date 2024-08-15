@@ -107,7 +107,7 @@ sections:
         - title: Interpretable LLM Research Intern 
           company: Feitian Lab, Alibaba Cloud  
           company_url: 'https://cn.aliyun.com/'
-          company_logo: min
+          company_logo: aliyun
           location: Hangzhou, China
           date_start: '2024-03-01'
           date_end: ''
@@ -213,7 +213,7 @@ sections:
         - title: Chinese Physics Olympiad
           certificate_url: ''
           date_end: ''
-          date_start: '2018-01-01'
+          date_start: '2018-09-01'
           description: ''
           icon: bayi
           #icon_pack: custom

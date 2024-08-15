@@ -166,7 +166,7 @@ sections:
           date_start: '2023-01-01'
           description: ''
           icon: edx
-          #icon_pack: custom
+          icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
           url: ''

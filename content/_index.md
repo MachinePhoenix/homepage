@@ -167,7 +167,6 @@ sections:
           description: ''
           icon: nation level, Second Prize
           organization: Nation level, Second Prize
-          #organization: Coursera
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
         - title: The Mathematical Contest in Modeling
           certificate_url: ''

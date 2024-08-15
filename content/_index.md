@@ -160,22 +160,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
         - title: The 20th Chinese Graduate Mathematical Modeling Competition
           certificate_url: 
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: coursera
-          #organization: Nation level, Second Prize
-          organization: Coursera
+          icon: nation level, Second Prize
+          organization: Nation level, Second Prize
+          #organization: Coursera
           organization_url: https://cpipc.acge.org.cn/cw/hp/4
         - title: The Mathematical Contest in Modeling
           certificate_url: ''

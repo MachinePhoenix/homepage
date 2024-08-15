@@ -10,8 +10,8 @@ authors:
 - Junni Zou
 - Hongkai Xiong
 
-# author_notes:
-# - "Equal contribution"
+author_notes:
+- ""
 data: "2024-03-08T00:00:00Z"
 doi: ""
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Adversarial Training of ReLU Networks Is Difficult?"
+title: "Clarifying the Behavior and the Difficulty of Adversarial Training"
 authors:
 - Xu Cheng
 - Hao Zhang
@@ -12,7 +12,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2022-05-30T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1609/aaai.v38i10.29032"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-24T00:00:00Z"
@@ -38,7 +38,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/2205.15130
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29032/29956
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -1,4 +1,3 @@
-
 ---
 title: "ICPNet: A Network of Network with Implicit Layers and Chebyshev Polynomial Activation Function"
 authors:

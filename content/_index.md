@@ -112,7 +112,7 @@ sections:
           date_start: '2024-03-01'
           date_end: ''
           description: |2-
-              Advised by [Prof. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/), my researches include:
+              Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
 
               * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (preparing for ICLR 2025) 
     

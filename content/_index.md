@@ -104,7 +104,17 @@ sections:
 
               * Constructed a Chebyshev polynomial network and use the Deep Equilibrium Model (DEQ) to extend the fitting order to infinity. This effectively enhances the network’s ability to fit target functions in the latent space. Experiments validate its favorable properties and universality. (NeurIPS 2024 on submission)
               * Proposed SMoCT, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
+        - title: Interpretable LLM Research Intern 
+          company: Feitian Lab, Alibaba Cloud  
+          company_url: 'https://cn.aliyun.com/'
+          company_logo: min
+          location: Hangzhou, China
+          date_start: '2024-3-25'
+          date_end: ''
+          description: |2-
+              Advised by [Prof. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/), my researches include:
 
+              * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (preparing for ICLR 2025) 
     
         
         - title: Interpretable Machine Learning Intern
@@ -200,16 +210,16 @@ sections:
           organization: Nation level, Tenth Place
           organization_url: https://www.cnblogs.com/hoganbin/p/13581613.html
           url: ''
-        - title: Chinese Physics Olypiad
-              certificate_url: ''
-              date_end: ''
-              date_start: '2018-01-01'
-              description: ''
-              icon: bayi
-              #icon_pack: custom
-              organization: Province level, First Prize
-              organization_url: https://cpho.pku.edu.cn/
-              url: ''
+        - title: Chinese Physics Olympiad
+          certificate_url: ''
+          date_end: ''
+          date_start: '2018-01-01'
+          description: ''
+          icon: bayi
+          #icon_pack: custom
+          organization: Province level, First Prize
+          organization_url: https://cpho.pku.edu.cn/
+          url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

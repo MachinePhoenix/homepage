@@ -4,6 +4,7 @@ authors:
 - admin
 - Jiarui Zhang
 - Wen Fei
+- Ziyang Zheng
 - Wenrui Dai
 - Chenglin Li
 - Junni Zou
@@ -20,10 +21,10 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ECCV 2024"
+publication: "NeurIPS 2024"
 publication_short: ""
 
 abstract: Deep neural networks (DNNs) have become great techniques to solve optimization problems in almost every area. However, the architectures of deep networks are highly diverse, and the design and selection of structures often rely on empirical knowledge. In response, this paper proposes ICPNet, a unified model capable of representing networks with arbitrary depths and any activation function by fitting a certain network. Specifically, ICPNet employs Chebyshev polynomials to approximate a specific activation function as the network's activation function and constructs fixed-point iteration layers to approximate networks with arbitrary depths. Then we verify two great properties of ICPNet. First, the learning and representation ability of ICPNet is stronger than that of the approximated model. Besides, the cosine similarity between the optimization direction of conventional blocks and their corresponding fixed-point blocks is closely related to the training of the network, based on which a regularization term is designed for optimizing the network. It's verified that the term improves the learning ability even when incorporated into the original network alone. Various experiments across multiple tasks are conducted to verify the efficacy of ICPNet or even the plug-and-play module without incurring additional memory overhead. The source code will be submitted to github if accepted.

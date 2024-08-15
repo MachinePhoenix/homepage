@@ -1,4 +1,3 @@
-
 ---
 title: "SMoCT: Shared Mixture-of-Convolution for Downstream Transferring With Enhanced Parameter Efficiency"
 authors:

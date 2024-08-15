@@ -102,8 +102,20 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
-              * Proposed ICPNet, a unified model capable of representing networks with arbitrary depths with fixed-point iteration layers and any activation function with Chebyshev polynomials, and verified its great properties. (submission for ECCV 2024)
-              * Validated the high similarity properties of parameter matrices in LoRa, thereby constructed low-rank decomposition which reduced the required parameter quantity for fine-tuning as well as enhanced performance.
+              * Constructed a Chebyshev polynomial network and use the Deep Equilibrium Model (DEQ) to extend the fitting order to infinity. This effectively enhances the network’s ability to fit target functions in the latent space. Experiments validate its favorable properties and universality. (NeurIPS 2024 on submission)
+              * Proposed SMoCT, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
+
+    - title: Interpretable LLM Research Intern 
+          company: Feitian Lab, Alibaba Cloud  
+          company_url: 'https://cn.aliyun.com/'
+          company_logo: min
+          location: Hangzhou, China
+          date_start: '2024-3-25'
+          date_end: ''
+          description: |2-
+              Advised by [Prof. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/), my researches include:
+
+              * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (preparing for ICLR 2025) 
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
@@ -115,9 +127,9 @@ sections:
           description: |2-
               Advised by [Prof. Quanshi Zhang](http://qszhang.com/), my researches include:
 
-              * Used high-dimensional matrix analysis to clarify the challenges in adversarial training. (Accepted by AAAI 2024)
-              * Derived the dynamics characteristics in interactive learning. (Preparing for submission)
-              * Designed experimental methods to analyze the robustness of various complexity concepts.
+              * Theoretically derived the analytical solution for multi-step adversarial attacks, which explains the reasons behind the optimization difficulties in adversarial training. This is validated through experimental results. (Accepted by AAAI 2024)
+              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (NeurIPS 2024 on submission)
+              * Theoretically derived and validated the robustness of concepts with different complexities.
         
         - title: Machine Learning and Computer Vision Intern
           company: SunnyLab, SJTU
@@ -130,7 +142,7 @@ sections:
               Advised by [Prof. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
 
               * Developped Swin Transformer based model to implemente instance segmentation of workpiece welding area.
-              * Designed a space-time filter to remove false positive samples in pedestrian detection.
+              * Designed a space-time filter to remove false positive samples in pedestrian detection. 
               * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
@@ -198,6 +210,16 @@ sections:
           organization: Nation level, Tenth Place
           organization_url: https://www.cnblogs.com/hoganbin/p/13581613.html
           url: ''
+        - title: Chinese Physics Olypiad
+              certificate_url: ''
+              date_end: ''
+              date_start: '2018-01-01'
+              description: ''
+              icon: bayi
+              #icon_pack: custom
+              organization: Province level, First Prize
+              organization_url: https://cpho.pku.edu.cn/
+              url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -425,17 +447,17 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: School Table Tennis Team Member
+        - title: Member of School Table Tennis Team 
           company: SJTU
           date_start: '2019-09-01'
           date_end: ''
         
-        - title: College Table Tennis Team and Club Head Coach
+        - title: Head Coach of College Table Tennis Team and Club 
           company: Zhiyuan College, SJTU
           date_start: '2021-09-01'
           date_end: ''
     
-        - title: College Table Tennis Team Captain
+        - title: Captain of College Table Tennis Team 
           company: School of Electronic Information and Electrical Engineering, SJTU
           date_start: '2021-09-01'
           date_end: '2023-12-01'
@@ -445,7 +467,7 @@ sections:
               * Third Place in the Team Category at the Tizong Cup in 2021.
               * Second Place in the Team Category at the School Sports Meet in 2022.
         
-        - title: School Track and Field Team Member
+        - title: Member of School Track and Field Team 
           company: SJTU
           date_start: '2020-09-01'
           date_end: '2021-05-01'
@@ -455,7 +477,7 @@ sections:
               * Second Place in the Men's 4$\times$100-Meter Relay at the School Sports Meet in 2020.
               * First Place in the Men's 4$\times$100-Meter Relay at the 2021 Track and Field Athletics Meet.
         
-        - title: Physics Subject Camp Counselor 
+        - title: Counselor of Physics Subject Camp  
           company: SJTU  
           date_start: '2020-09-01'
           date_end: '2021-01-01'

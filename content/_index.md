@@ -109,7 +109,7 @@ sections:
           company_url: 'https://cn.aliyun.com/'
           company_logo: min
           location: Hangzhou, China
-          date_start: '2024-3-25'
+          date_start: '2024-3-01'
           date_end: ''
           description: |2-
               Advised by [Prof. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/), my researches include:

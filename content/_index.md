@@ -165,7 +165,8 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description: ''
-          icon: brands/yan
+          company_logo: sjtu
+          #icon: brands/yan
           #icon_pack: custom
           organization: Nation level, Second Prize
           organization_url: https://cpipc.acge.org.cn/cw/hp/4

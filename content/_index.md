@@ -103,7 +103,7 @@ sections:
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
               * Constructed a Chebyshev polynomial network and use the Deep Equilibrium Model (DEQ) to extend the fitting order to infinity. This effectively enhances the network’s ability to fit target functions in the latent space. Experiments validate its favorable properties and universality. (NeurIPS 2024 on submission)
-              * Proposed SMoCT, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
+              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
         - title: Interpretable LLM Research Intern 
           company: Feitian Lab, Alibaba Cloud  
           company_url: 'https://cn.aliyun.com/'

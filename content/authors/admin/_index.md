@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role:  忻岳 | First-Year Master's Student
+role:  忻岳 | Second-Year Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -77,7 +77,7 @@ email: <xinyuexiong@sjtu.edu.cn>
 highlight_name: true
 ---
 
-I am a first-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
+I am a second-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
 
 I have a keen interest in machine learning and interpretable artificial intelligence. My goal is to identify the fundamental optimization goal of deep learning and construct interpretable machine learning systems through mathematical derivations. Specifically, I aim to establish objective metrics to measure model performance and mathematically deduce the factors that contribute to model performance, guiding the design of neural network architectures.
 

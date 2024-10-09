@@ -25,18 +25,8 @@ publication_types: ["paper-conference"]
 publication: "NeurIPS 2024"
 publication_short: ""
 
-abstract: This study proves the two-phase dynamics of a deep neural network (DNN) learning
-interactions. Despite the long disappointing view of the faithfulness of post-hoc
-explanation of a DNN, in recent years, a series of theorems have been proven to show that given an input sample, a small number of interactions between input
-variables can be considered as primitive inference patterns, which can faithfully
-represent every detailed inference logic of the DNN on this sample. Particularly,
-it has been observed that various DNNs all learn interactions of different
-complexities with two-phase dynamics, and this well explains how a DNN’s
-generalization power changes from under-fitting to over-fitting. Therefore, in
-this study, we prove the dynamics of a DNN gradually encoding interactions of
-different complexities, which provides a theoretically grounded mechanism for
-the over-fitting of a DNN. Experiments show that our theory well predicts the real
-learning dynamics of various DNNs on different tasks.
+abstract: This study proves the two-phase dynamics of a deep neural network (DNN) learning interactions. Despite the long disappointing view of the faithfulness of post-hoc explanation of a DNN, in recent years, a series of theorems have been proven to show that given an input sample, a small number of interactions between input variables can be considered as primitive inference patterns, which can faithfully represent every detailed inference logic of the DNN on this sample. Particularly, it has been observed that various DNNs all learn interactions of different complexities with two-phase dynamics, and this well explains how a DNN’s generalization power changes from under fitting to over-fitting. Therefore, in this study, we prove the dynamics of a DNN gradually encoding interactions of different complexities, which provides a theoretically grounded mechanism for the over-fitting of a DNN. Experiments show that our theory well predicts the real learning dynamics of various DNNs on different tasks.
+
 # Summary. An optional shortened abstract.
 summary: Learning Interaction, Two-Phase Dynamics.
 

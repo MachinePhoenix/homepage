@@ -102,7 +102,7 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
-              * Constructed a Chebyshev polynomial network and use the Deep Equilibrium Model (DEQ) to extend the fitting order to infinity. This effectively enhances the network’s ability to fit target functions in the latent space. Experiments validate its favorable properties and universality. (NeurIPS 2024 on submission)
+              * Proposed ChebyNet, a novel network paradigm to build Chebyshev polynomial connections between general network layers. Specifically, established recursive relatetionship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments verify its strong approximation capacity. (ICLR 2025 on submission)
               * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
         - title: Interpretable LLM Research Intern 
           company: Feitian Lab, Alibaba Cloud  
@@ -114,7 +114,7 @@ sections:
           description: |2-
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
 
-              * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (preparing for ICLR 2025) 
+              * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (NAACL 2025 on submission) 
     
         
         - title: Interpretable Machine Learning Intern
@@ -128,7 +128,7 @@ sections:
               Advised by [Prof. Quanshi Zhang](http://qszhang.com/), my researches include:
 
               * Theoretically derived the analytical solution for multi-step adversarial attacks, which explains the reasons behind the optimization difficulties in adversarial training. This is validated through experimental results. (Accepted by AAAI 2024)
-              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (NeurIPS 2024 on submission)
+              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (Accepted by NeurIPS 2024)
               * Theoretically derived and validated the robustness of concepts with different complexities.
         
         - title: Machine Learning and Computer Vision Intern

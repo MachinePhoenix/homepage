@@ -25,8 +25,18 @@ publication_types: ["paper-conference"]
 publication: "NeurIPS 2024"
 publication_short: ""
 
-abstract: Traditional deep neural networks (DNNs) predominantly adhere to a similar design paradigm. Even with the incorporation of additive shortcuts, they lack explicit modeling of relationships between non-adjacent layers. Consequently, this paradigm constrains the fitting capabilities of existing DNNs. To address this issue, we propose ChebyNet, a novel network paradigm to build Chebyshev polynomial connections between general network layers. Specifically, we establish recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers to construct ChebyNet, which improves representation capabilities of the network. Experimentally, we comprehensively evaluate ChebyNet on diverse tasks, including function approximation, semantic segmentation, and visual recognition. Across all these tasks, ChebyNet consistently outperforms traditional neural networks under identical training conditions, demonstrating superior efficiency and fitting properties. Our findings underscore the potential of polynomial-based layer connections to significantly enhance neural network performance, offering a promising direction for future deep learning architectures.
-
+abstract: This study proves the two-phase dynamics of a deep neural network (DNN) learning
+interactions. Despite the long disappointing view of the faithfulness of post-hoc
+explanation of a DNN, in recent years, a series of theorems have been proven to show that given an input sample, a small number of interactions between input
+variables can be considered as primitive inference patterns, which can faithfully
+represent every detailed inference logic of the DNN on this sample. Particularly,
+it has been observed that various DNNs all learn interactions of different
+complexities with two-phase dynamics, and this well explains how a DNN’s
+generalization power changes from under-fitting to over-fitting. Therefore, in
+this study, we prove the dynamics of a DNN gradually encoding interactions of
+different complexities, which provides a theoretically grounded mechanism for
+the over-fitting of a DNN. Experiments show that our theory well predicts the real
+learning dynamics of various DNNs on different tasks.
 # Summary. An optional shortened abstract.
 summary: Learning Interaction, Two-Phase Dynamics.
 

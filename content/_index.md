@@ -102,8 +102,10 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
 
-              * Proposed ChebyNet, a novel network paradigm to build Chebyshev polynomial connections between general network layers. Specifically, established recursive relatetionship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments verify its strong approximation capacity. (ICLR 2025 on submission)
-              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRa to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (AAAI 2025 on submission)
+              * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
+              * Proposed Residual Side Tuning (RST) framework to enhance information extraction efficiency by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing element-wise feature enhancement strategy to model cross-layer information. The properties and performance of RST is verified through mathematical proof and various experiments. (ICML 2025 on submission)
+              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ICME 2025 on submission)
+              * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICML 2025 on submission)
         - title: Interpretable LLM Research Intern 
           company: Feitian Lab, Alibaba Cloud  
           company_url: 'https://cn.aliyun.com/'
@@ -114,7 +116,8 @@ sections:
           description: |2-
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
 
-              * Proposed a new paradigm that calculates the importance of different components of few-shot CoT demonstrations using Shapley values, thereby enhancing the inference capability of large models. This approach elucidates the mechanism of CoT in large models and unifies previous research. (NAACL 2025 on submission) 
+              * Proposed SalaMAnder, a Shapley-value-based framework for quantifying component-level contributions in CoT reasoning. Specifically, we develop an efficient stratified sampling algorithm to compute Shapley value for mathematical expression attribution and CoSP (Cardinality of Shapley Positives) metric. Theoretical derivation and comprehensive validation across multiple models and benchmarks present a robust monotonic correlation between CoSP and model performance, providing theoretical explanations for the empirical success of CoT. (ACL 2025 on submission)
+              * Classfied and summarized research work on interpretability on large language models.
     
         
         - title: Interpretable Machine Learning Intern

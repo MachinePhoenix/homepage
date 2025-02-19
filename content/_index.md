@@ -119,7 +119,7 @@ sections:
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
     
               * Proposed SalaMAnder, a Shapley-value-based framework for quantifying component-level contributions in CoT reasoning. Specifically, we develop an efficient stratified sampling algorithm to compute Shapley value for mathematical expression attribution and CoSP (Cardinality of Shapley Positives) metric. Theoretical derivation and comprehensive validation across multiple models and benchmarks present a robust monotonic correlation between CoSP and model performance, providing theoretical explanations for the empirical success of CoT. (ACL 2025 on submission)
-              * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representation. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis.
+              * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representation. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis. (ACL 2025 on submission)
               * Classfied and summarized research work on interpretability on large language models.
          
     

@@ -12,8 +12,7 @@ authors:
 - Jieping Ye
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2025-02-16T00:00:00Z"
 doi: ""
 

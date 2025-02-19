@@ -11,8 +11,6 @@ authors:
 - Hongkai Xiong
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2025-02-02T00:00:00Z"
 doi: ""
 

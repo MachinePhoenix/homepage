@@ -59,7 +59,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 10
       # Filter on criteria
       filters:
         folders:

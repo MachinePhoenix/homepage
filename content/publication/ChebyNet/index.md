@@ -1,5 +1,5 @@
 ---
-title: "ChebyNet: Boosting Neural Network Fitting and Efficiency through Chebyshev Polynomial Layer Connections"
+title: "ChebHiPoly: Hierarchical Chebyshev Polynomial Modules for Enhanced Approximation and Optimization"
 authors:
 - admin
 - Jiarui Zhang

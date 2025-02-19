@@ -114,7 +114,7 @@ sections:
           company_logo: aliyun
           location: Hangzhou, China
           date_start: '2024-03-01'
-          date_end: ''
+          date_end: '2024-10-01'
           description: |2-
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
     

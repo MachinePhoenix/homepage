@@ -102,10 +102,10 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
     
-        * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
+          * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
           * Proposed Residual Side Tuning (RST) framework to enhance information extraction efficiency by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing element-wise feature enhancement strategy to model cross-layer information. The properties and performance of RST is verified through mathematical proof and various experiments. (ICML 2025 on submission)
           * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ICME 2025 on submission)
-         * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICML 2025 on submission)
+          * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICML 2025 on submission)
 
               
         - title: Interpretable LLM Research Intern 

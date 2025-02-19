@@ -77,7 +77,7 @@ sections:
       order: asc
     design:
       # Choose a layout view
-      view: compact
+      view: showcase
       columns: '1'
   - block: experience
     id: experience

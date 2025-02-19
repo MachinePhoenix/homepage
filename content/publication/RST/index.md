@@ -12,11 +12,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-05-30T00:00:00Z"
-doi: "https://doi.org/10.1609/aaai.v38i10.29032"
+date: "2025-02-02T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-24T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ publication_types: ["preprint"]
 # Publication name and optional abbreviated publication name.
 publication: "ICML 2025"
 publication_short: ""
-abstract: 
+abstract: Existing fine-tuning methods for pre-trained models, including parameter-efficient transfer learning (PETL) approaches, suffer from inefficient information extraction and substantial resource consumption. To address these issues, we present Residual Side Tuning (RST), a novel PETL framework designed to enhance information extraction efficiency while maintaining minimal additional parameters. Specifically, RST extracts aggregated features, i.e., residuals, and employs a dual-block side tuning structure: Collect Blocks extract inter-layer information into residuals while Feed Blocks strategically reintegrate them back into the backbone. This parallel processing framework effectively models cross-layer relationships and significantly improves the efficiency of hierarchical feature extraction. Furthermore, RST reinforces these relationships by leveraging an element-wise feature enhancement strategy that integrates residuals with the current layer’s outputs, thereby augmenting information extraction capabilities. This enhanced extraction efficiency enables a parameter sharing strategy within the Collect Blocks, significantly reducing the number of trainable parameters through shared adaptations across multiple layers. Extensive experiments on several benchmark datasets, particularly in low-shot learning scenarios, demonstrate that RST not only outperforms existing PETL methods in accuracy but also achieves substantial reductions in both parameter and memory usage.
 
 # Summary. An optional shortened abstract.
 summary: PETL, Side-tuning, ViT.
@@ -38,7 +38,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29032/29956
+# url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29032/29956
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -78,7 +78,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
   - block: experience
     id: experience
     content:

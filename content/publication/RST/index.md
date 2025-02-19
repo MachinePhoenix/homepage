@@ -1,12 +1,13 @@
 ---
-title: "Clarifying the Behavior and the Difficulty of Adversarial Training"
+title: "RST: Residual Side Tuning with Cross-Layer Correlation for Parameter Efficient Transfer Learning"
 authors:
-- Xu Cheng
-- Hao Zhang
 - admin
-- Wen Shen
-- Jie Ren
-- Quanshi Zhang
+- Yaoming Wang
+- Wenrui Dai
+- Jiarui Zhang
+- Chenglin Li
+- Junni Zou
+- Hongkai Xiong
 
 author_notes:
 - "Equal contribution"
@@ -20,16 +21,16 @@ publishDate: "2024-03-24T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI 2024"
+publication: "ICML 2025"
 publication_short: ""
 
-abstract: Adversarial training is usually difficult to optimize. This paper provides conceptual and analytic insights into the difficulty of adversarial training via a simple theoretical study, where we derive an approximate dynamics of a recursive multi-step attack in a simple setting. Despite the simplicity of our theory, it still reveals verifiable predictions about various phenomena in adversarial training under real-world settings. First, compared to vanilla training, adversarial training is more likely to boost the influence of input samples with large gradient norms in an exponential manner. Besides, adversarial training also strengthens the influence of the Hessian matrix of the loss w.r.t. network parameters, which is more likely to make network parameters oscillate and boosts the difficulty of adversarial training.
+abstract: Existing fine-tuning methods for pre-trained models, including parameter-efficient transfer learning (PETL) approaches, suffer from inefficient information extraction and substantial resource consumption. To address these issues, we present Residual Side Tuning (RST), a novel PETL framework designed to enhance information extraction efficiency while maintaining minimal additional parameters. Specifically, RST extracts aggregated features, i.e., residuals, and employs a dual-block side tuning structure: Collect Blocks extract inter-layer information into residuals while Feed Blocks strategically reintegrate them back into the backbone. This parallel processing framework effectively models cross-layer relationships and significantly improves the efficiency of hierarchical feature extraction. Furthermore, RST reinforces these relationships by leveraging an element-wise feature enhancement strategy that integrates residuals with the current layer’s outputs, thereby augmenting information extraction capabilities. This enhanced extraction efficiency enables a parameter sharing strategy within the Collect Blocks, significantly reducing the number of trainable parameters through shared adaptations across multiple layers. Extensive experiments on several benchmark datasets, particularly in low-shot learning scenarios, demonstrate that RST not only outperforms existing PETL methods in accuracy but also achieves substantial reductions in both parameter and memory usage.
 
 # Summary. An optional shortened abstract.
-summary: Adversarial Training, ReLU Network, Hessian Matrix.
+summary: PETL, Side-tuning, ViT.
 
 # tags:
 # - Source Themes

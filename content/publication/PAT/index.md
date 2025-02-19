@@ -3,7 +3,7 @@ title: "Bootstrap Prompt Learning with Feature Adaptation for Vision-Language Ef
 authors:
 - Jiarui Zhang
 - Yaoming Wang
-- - admin
+- admin
 - Wenrui Dai
 
 - Chenglin Li

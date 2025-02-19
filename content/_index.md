@@ -77,7 +77,7 @@ sections:
       order: asc
     design:
       # Choose a layout view
-      view: card
+      view: listing
       columns: '1'
   - block: experience
     id: experience

@@ -14,6 +14,7 @@ author_notes:
 - ""
 date: "2024-03-08T00:00:00Z"
 doi: ""
+[PDF](chebynet.pdf)
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -37,7 +38,6 @@ summary: DNNs, Chebyshev Polynomials.
 # - Source Themes
 featured: false
 
-[PDF](chebynet.pdf)
 
 links:
 # - name: Custom Link

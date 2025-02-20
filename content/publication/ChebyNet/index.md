@@ -37,6 +37,8 @@ summary: DNNs, Chebyshev Polynomials.
 # - Source Themes
 featured: false
 
+[PDF](chebynet.pdf)
+
 links:
 # - name: Custom Link
 #   url: http://example.org

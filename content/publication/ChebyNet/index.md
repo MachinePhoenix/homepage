@@ -14,7 +14,6 @@ author_notes:
 - ""
 date: "2024-03-08T00:00:00Z"
 doi: ""
-[PDF](chebynet.pdf)
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -42,7 +41,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: chebynet.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

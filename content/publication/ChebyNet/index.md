@@ -28,7 +28,7 @@ publication_types: ["preprint"]
 publication: "ICME 2025"
 publication_short: ""
 
-abstract: Traditional deep neural networks (DNNs) predominantly adhere to a similar design paradigm. Even with the incorporation of additive shortcuts, they lack explicit modeling of relationships between non-adjacent layers. Consequently, this paradigm constrains the fitting capabilities of existing DNNs. To address this issue, we propose ChebyNet, a novel network paradigm to build Chebyshev polynomial connections between general network layers. Specifically, we establish recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers to construct ChebyNet, which improves representation capabilities of the network. Experimentally, we comprehensively evaluate ChebyNet on diverse tasks, including function approximation, semantic segmentation, and visual recognition. Across all these tasks, ChebyNet consistently outperforms traditional neural networks under identical training conditions, demonstrating superior efficiency and fitting properties. Our findings underscore the potential of polynomial-based layer connections to significantly enhance neural network performance, offering a promising direction for future deep learning architectures.
+abstract: "Traditional deep neural networks (DNNs) predominantly adhere to a similar design paradigm. Even with the incorporation of additive shortcuts, they lack explicit modeling of relationships between non-adjacent layers. Consequently, this paradigm constrains the fitting capabilities of existing DNNs. To address this issue, we propose ChebHiPoly, a novel network paradigm to build hierarchical Chebyshev polynomial connections between general network layers. Specifically, we establish a recursive relationship among adjacent layers and a polynomial relationship between non-adjacent layers to construct ChebHiPoly, which improves representation capabilities of the network. Experimentally, we comprehensively evaluate ChebHiPoly on diverse tasks, including function approximation, semantic segmentation, and visual recognition. Across all these tasks, ChebHiPoly consistently outperforms traditional neural networks under identical training conditions, demonstrating superior efficiency and fitting properties. Our findings underscore the potential of polynomial-based layer connections to significantly enhance neural network performance, offering a promising direction for future deep learning architectures."
 
 # Summary. An optional shortened abstract.
 summary: DNNs, Chebyshev Polynomials.
@@ -41,7 +41,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: chebynet.pdf
+url_pdf: chebhipoly.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

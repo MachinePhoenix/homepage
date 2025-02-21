@@ -41,7 +41,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: ChebHiPoly.pdf
+url_pdf: ChebyNet.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -15,19 +15,19 @@ main:
     weight: 40
   - name: Engineering Experience
     url: '#engineer'
-    weight: 40
+    weight: 60
   - name: Competitions
     url: '#competition'
-    weight: 50
+    weight: 70
   - name: Honors
     url: '#honor'
-    weight: 60
+    weight: 80
   - name: Skills
     url: '#skills'
-    weight: 70
+    weight: 90
   - name: Activities
     url: '#activity'
-    weight: 80
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

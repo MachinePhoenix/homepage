@@ -157,7 +157,7 @@ sections:
   - block: experience
     id: engineering
     content:
-      title: Research Experience
+      title: Engineering Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -167,8 +167,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning and Computer Vision Intern and Master's Student 
-          company: Institute of Media, Information and Network (min), SJTU  
+        - title: Quantitative Strategy Research and Machine Learning Intern 
+          company: Qilin Investment  
           company_url: 'https://min.sjtu.edu.cn/'
           company_logo: min
           location: Shanghai, China

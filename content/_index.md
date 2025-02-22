@@ -153,10 +153,11 @@ sections:
               * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
+    
   - block: experience
     id: engineering
     content:
-      title: Engineering Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -166,18 +167,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Quantitative Strategy Research and Machine Learning Intern 
-          company: Qilin Investment  
-          company_url: 'https://www.70capital.com/'
-          company_logo: ql
+        - title: Machine Learning and Computer Vision Intern and Master's Student 
+          company: Institute of Media, Information and Network (min), SJTU  
+          company_url: 'https://min.sjtu.edu.cn/'
+          company_logo: min
           location: Shanghai, China
-          date_start: '2024-10-01'
-          date_end: '2025-01-01'
+          date_start: '2022-11-01'
+          date_end: ''
           description: |2-
-              My engineering projects include:
-      
-              * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
-              * Fine-tuned the above model to enhance performance by 10\% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.
+              Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
+    
+              * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
+              * Proposed Residual Side Tuning (RST) framework to enhance information extraction efficiency by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing element-wise feature enhancement strategy to model cross-layer information. The properties and performance of RST is verified through mathematical proof and various experiments. (ICML 2025 on submission)
     design:
       columns: '1'
     

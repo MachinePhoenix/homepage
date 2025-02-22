@@ -169,16 +169,16 @@ sections:
       items:
         - title: Quantitative Strategy Research and Machine Learning Intern 
           company: Qilin Investment  
-          company_url: 'https://min.sjtu.edu.cn/'
-          company_logo: min
+          company_url: 'https://www.70capital.com/'
+          company_logo: ql
           location: Shanghai, China
-          date_start: '2022-11-01'
-          date_end: ''
+          date_start: '2024-10-01'
+          date_end: '2025-01-01'
           description: |2-
-              Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
+              My engineering projects include:
     
-              * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
-              * Proposed Residual Side Tuning (RST) framework to enhance information extraction efficiency by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing element-wise feature enhancement strategy to model cross-layer information. The properties and performance of RST is verified through mathematical proof and various experiments. (ICML 2025 on submission)
+              * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
+              * Fine-tuned the above model to enhance performance by 10% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.
     design:
       columns: '1'
     

@@ -178,6 +178,8 @@ sections:
       
               * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
               * Fine-tuned the above model to enhance performance by 10\% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.
+    design:
+      columns: '1'
     
   - block: accomplishments
     id: competition

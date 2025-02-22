@@ -80,7 +80,7 @@ sections:
       view: list
       columns: '1'
   - block: experience
-    id: experience
+    id: research
     content:
       title: Research Experience
       # Date format for experience

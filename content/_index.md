@@ -153,33 +153,31 @@ sections:
               * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
     design:
       columns: '1'
-
-
-- block: experience
-      id: engineering
-      content:
-        title: Engineering Experience
-        # Date format for experience
-        #   Refer to https://wowchemy.com/docs/customization/#date-format
-        date_format: Jan 2006
-        # Experiences.
-        #   Add/remove as many `experience` items below as you like.
-        #   Required fields are `title`, `company`, and `date_start`.
-        #   Leave `date_end` empty if it's your current employer.
-        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-        items:
-          - title: Quantitative Strategy Research and Machine Learning Intern 
-            company: Qilin Investment  
-            company_url: 'https://www.70capital.com/'
-            company_logo: ql
-            location: Shanghai, China
-            date_start: '2024-10-01'
-            date_end: '2025-01-01'
-            description: |2-
-                My engineering projects include:
+  - block: experience
+    id: engineering
+    content:
+      title: Engineering Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Quantitative Strategy Research and Machine Learning Intern 
+          company: Qilin Investment  
+          company_url: 'https://www.70capital.com/'
+          company_logo: ql
+          location: Shanghai, China
+          date_start: '2024-10-01'
+          date_end: '2025-01-01'
+          description: |2-
+              My engineering projects include:
       
-                * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
-                * Fine-tuned the above model to enhance performance by 10\% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.
+              * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
+              * Fine-tuned the above model to enhance performance by 10\% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.
     
   - block: accomplishments
     id: competition

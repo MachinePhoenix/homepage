@@ -14,7 +14,7 @@ main:
     url: '#research'
     weight: 40
   - name: Engineering Experience
-    url: '#engineer'
+    url: '#engineering'
     weight: 60
   - name: Competitions
     url: '#competition'

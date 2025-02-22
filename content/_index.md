@@ -175,7 +175,7 @@ sections:
           date_start: '2024-10-01'
           date_end: '2025-01-01'
           description: |2-
-              My engineering projects include:
+              My research and engineering projects include:
     
               * Developed various models to complete intraday prediction tasks, surpassing the baseline model in global domains (A-shares) and improving performance in live trading within three weeks. Conducted ablation studies on the model to explain the reasons for performance improvement and validate its generalizability.
               * Fine-tuned the above model to enhance performance by 10% in local domains (ZZ800 and ZZ1000) while maintaining minimal decrease in overall performance.

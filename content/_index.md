@@ -102,10 +102,38 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
     
-              * Proposed modular Chebyshev connections into general network layers to improve the approximation capability of a neural network. Specifically, established recursive relationship among adjacent layers and polynomial relationship between non-adjacent layers. Comprehensive experiments vefify its strong approximation and optimization capability. (ICME 2025 on submission)
-              * Proposed Residual Side Tuning (RST) framework to enhance information extraction efficiency by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing element-wise feature enhancement strategy to model cross-layer information. The properties and performance of RST is verified through mathematical proof and various experiments. (ICML 2025 on submission)
-              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ICME 2025 on submission)
-              * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICML 2025 on submission)
+              * Proposed Chebyshev Fusion Unit (CFU), a lightweight feature fusion method to mitigate the challenge of balancing
+expressiveness and efficiency. Specifically, CFU computed high-order Chebyshev polynomial terms between residual and
+current-layer features to explicitly model complex cross-layer dependencies with minimal parameters. Comprehensive
+experiments vefify its strong approximation and optimization capability. (VCIP 2025 on submission)
+              * Proposed Dual-Dimensional Residual Side Tuning (D2-RST) framework to mitigate feature forgetting and progressive
+spectral decay in deep layers by employing a dual-block side-tuning structure with low-rank linear mapping on
+aggregated features, and introducing additional spatial-dimension pathway in parallel with the feature-dimension
+pathway. The properties and performance of RST is verified through mathematical proof and various experiments.
+(BMVC 2025 on submission)
+              * Proposed Chebyshev-Attention-Based Semi-Unet (CASUNet), a noise-resilient framework integrating a Semi-UNet
+backbone with a novel CPA (Chebyshev Polynomial Aggregation) module by first aggregating hierarchical features then
+expanding to orthogonal polynomial terms. Theoretical and experimental analysis verify its superior noise immunity and
+competitive performance. (WACV 2026 on Submission)
+              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ECAI 2025 accepted)
+              * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICLR 2026 on submission)
+
+
+        - title: MLLM Research Intern 
+          company: Tong Zhang's Lab, UIUC  
+          company_url: 'https://illinois.edu/'
+          company_logo: uiuc
+          location: Illinois, US
+          date_start: '2025-03-01'
+          date_end: ''
+          description: |2-
+              Advised by [Prof. Tong Zhang](https://tongzhang-ml.org/), my researches include:
+    
+              * Proposed Geo-Image-Textualization, a reinforcement learning-based framework to generate high-quality and
+geometry-centered multimodal data by utilizing a rule-based data generation pipeline and adopting RAFT to further
+optimizing the captions. Then constructed a dataset named GeoReasoning-10K to bridge the gap between visual and
+linguistic modalities in the geometry domain. Extensive experiments verify the superiority of the dataset for improving
+multimodal reasoning capacity. (NeurIPS 2025 on submission)
 
               
         - title: Interpretable LLM Research Intern 

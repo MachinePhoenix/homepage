@@ -1,10 +1,11 @@
 ---
-title: "RST: Residual Side Tuning with Cross-Layer Correlation for Parameter Efficient Transfer Learning"
+title: "D2-RST: Dual-Dimensional Residual Side Tuning for Mitigating Feature Forgetting in Parameter-Efficient Transfer Learning"
 authors:
 - admin
 - Yaoming Wang
 - Wenrui Dai
 - Jiarui Zhang
+- Ziyang Zheng
 - Chenglin Li
 - Junni Zou
 - Hongkai Xiong
@@ -23,10 +24,10 @@ publishDate: ""
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICML 2025"
+publication: "WACV 2026"
 publication_short: ""
 
-abstract: "Existing fine-tuning methods for pre-trained models, including parameter-efficient transfer learning (PETL) approaches, suffer from inefficient information extraction and substantial resource consumption. To address these issues, we present Residual Side Tuning (RST), a novel PETL framework designed to enhance information extraction efficiency while maintaining minimal additional parameters. Specifically, RST extracts aggregated features, i.e., residuals, and employs a dual-block side tuning structure--Collect Blocks extract inter-layer information into residuals while Feed Blocks strategically reintegrate them back into the backbone. This parallel processing framework effectively models cross-layer relationships and significantly improves the efficiency of hierarchical feature extraction. Furthermore, RST reinforces these relationships by leveraging an element-wise feature enhancement strategy that integrates residuals with the current layer’s outputs, thereby augmenting information extraction capabilities. This enhanced extraction efficiency enables a parameter sharing strategy within the Collect Blocks, significantly reducing the number of trainable parameters through shared adaptations across multiple layers. Extensive experiments on several benchmark datasets, particularly in low-shot learning scenarios, demonstrate that RST not only outperforms existing PETL methods in accuracy but also achieves substantial reductions in both parameter and memory usage."
+abstract: "Existing fine-tuning methods for pre-trained models, including parameter-efficient transfer learning (PETL) approaches, suffer from severe feature forgetting in deep layers due to progressive spectral decay. To address this issue, we present \textbf{Dual-Dimensional Residual Side Tuning (D2-RST)}, a novel PETL framework designed to mitigate feature forgetting by jointly optimizing aggregated features, i.e., residuals, across both embedding and spatial dimensions. Specifically, D2-RST employs a dual-block side tuning structure: Collect Blocks extract inter-layer information into residuals while Feed Blocks strategically reintegrate them back into the backbone. This parallel processing framework with low-rank linear mappings applied to residuals effectively stabilizes low-frequency components while reducing memory cost. Additionally, D2-RST introduces a spatial-dimension pathway in parallel with the conventional feature-dimension pathway, followed by cross-dimensional fusion via learnable scalars at each Feed Block, thereby effectively suppressing low-frequency attenuation in deeper layers. To further reduce redundancy, we propose a parameter-sharing strategy for LoRA matrices within Collect Blocks, where low-rank projections are shared across multiple layers. Extensive experiments on several benchmarks demonstrate that D2-RST not only outperforms existing PETL methods in accuracy but also significantly reduces parameter overhead by explicitly suppressing deep-layer feature forgetting."
 
 # Summary. An optional shortened abstract.
 summary: PETL, Side-tuning, ViT.
@@ -38,7 +39,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: RST.pdf
+url_pdf: D2-RST.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

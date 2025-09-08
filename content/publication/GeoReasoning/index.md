@@ -10,7 +10,7 @@ authors:
 - Tong Zhang
 
 author_notes:
-
+- ""
 date: "2025-05-16T00:00:00Z"
 doi: ""
 
@@ -22,18 +22,20 @@ publishDate: ""
 # Enter a publication type from the CSL standard.
 publication_types: ["preprint"]
 
+
 # Publication name and optional abbreviated publication name.
 publication: "NeurIPS 2025"
 publication_short: ""
 
-abstract: "Multimodal large language models have various practical applications that demand strong reasoning abilities. Despite recent advancements in this area, these models still struggle to solve complex geometric problems. A key challenge stems from the lack of high-quality image-text pair datasets for understanding geometric images. Furthermore, most template-based data synthesis pipelines typically fail to generalize to questions outside their predefined templates. In this paper, we mitigate this issue by introducing a complementary RLHF process into the data generation pipeline. By adopting RAFT to adjust captions for image-text pairs generated from fewer than 50 templates and using reward signals derived from downstream mathematical problem-solving tasks, our pipeline successfully captures the key features of geometry problem-solving. This enables better task generalization and yields non-trivial improvements. Furthermore, the generated dataset also enhances the general mathematical reasoning capabilities of multimodal large language models beyond the domain of geometric mathematical problems, yielding accuracy improvements of 2.8\%–5.3\% in arithmetic, algebraic, and numerical tasks with even non-geometric input images."
+abstract: "Multimodal large language models have various practical applications that demand strong reasoning abilities. Despite recent advancements in this area, these models still struggle to solve complex geometric problems. A key challenge stems from the lack of high-quality image-text pair datasets for understanding geometric images. Furthermore, most template-based data synthesis pipelines typically fail to generalize to questions outside their predefined templates. In this paper, we mitigate this issue by introducing a complementary RLHF process into the data generation pipeline. By adopting RAFT to adjust captions for image-text pairs generated from fewer than 50 templates and using reward signals derived from downstream mathematical problem-solving tasks, our pipeline successfully captures the key features of geometry problem-solving. This enables better task generalization and yields non-trivial improvements. Furthermore, the generated dataset also enhances the general mathematical reasoning capabilities of multimodal large language models beyond the domain of geometric mathematical problems, yielding accuracy improvements of 2.8%–5.3% in arithmetic, algebraic, and numerical tasks with even non-geometric input images."
 
 # Summary. An optional shortened abstract.
-summary: MLLM, Geometry, Data Generation, RLVR.
+summary: MLLM, Data Generation, Geometry, RLVR.
 
 # tags:
 # - Source Themes
 featured: false
+
 
 links:
 # - name: Custom Link

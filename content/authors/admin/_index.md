@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role:  忻岳 | Second-Year Master's Student
+role:  忻岳 | Third-Year Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,8 +78,8 @@ email: <xinyuexiong@sjtu.edu.cn>
 highlight_name: true
 ---
 
-I am a second-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). I received my bachelor’s degree in Electronic Science and Technology from SJTU. 
+I am a third-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). During my undergraduate studies, I majored in Electronic Science and Technology and minored in Computer Science at SJTU.
 
-I have a keen interest in machine learning, interpretable AI, and large (language) models. My goal is to identify the fundamental optimization goal of deep learning and establish interpretable machine learning systems.
+I have a keen interest in machine learning, interpretable AI, and large (language) models. Feel free to contact me!
 
 Download my [CV](uploads/xy_cv_en.pdf).

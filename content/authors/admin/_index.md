@@ -80,6 +80,10 @@ highlight_name: true
 
 I am a third-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). During my undergraduate studies, I majored in Electronic Science and Technology and minored in Computer Science at SJTU.
 
-I have a keen interest in machine learning, interpretable AI, and large (language) models. Feel free to contact me!
+I am currently working with [Tong Zhang](https://tongzhang-ml.org/) @ [UIUC](https://illinois.edu/). Previously, I was lucky enough to collaborate with [Jieping Ye](http://www.yelabs.net/) @ [UMich](https://umich.edu/) and [Quanshi Zhang](http://qszhang.com/) @ [SJTU](https://www.sjtu.edu.cn/).
+
+I have a keen interest in machine learning, interpretable AI, and large (language) models. 
+
+Feel free to contact me!
 
 Download my [CV](uploads/xy_cv_en.pdf).

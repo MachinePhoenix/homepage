@@ -378,7 +378,7 @@ sections:
       title: Skills
       items:
         - name: Programming Languages and Frameworks
-          description: Python, C++, Matlab, LaTeX, Linux, PyTorch, NumPy, Anaconda, Git, OpenCV
+          description: Python, C++, Matlab, LaTeX, PyTorch, NumPy, VLLM, SgLang, LLaMA-Factory
           icon: laptop-code
           icon_pack: fas
         - name: Mathematics

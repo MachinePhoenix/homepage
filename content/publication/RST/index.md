@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "WACV 2026"
+publication: "BMVC 2025"
 publication_short: ""
 
 abstract: "Existing fine-tuning methods for pre-trained models, including parameter-efficient transfer learning (PETL) approaches, suffer from severe feature forgetting in deep layers due to progressive spectral decay. To address this issue, we present \textbf{Dual-Dimensional Residual Side Tuning (D2-RST)}, a novel PETL framework designed to mitigate feature forgetting by jointly optimizing aggregated features, i.e., residuals, across both embedding and spatial dimensions. Specifically, D2-RST employs a dual-block side tuning structure: Collect Blocks extract inter-layer information into residuals while Feed Blocks strategically reintegrate them back into the backbone. This parallel processing framework with low-rank linear mappings applied to residuals effectively stabilizes low-frequency components while reducing memory cost. Additionally, D2-RST introduces a spatial-dimension pathway in parallel with the conventional feature-dimension pathway, followed by cross-dimensional fusion via learnable scalars at each Feed Block, thereby effectively suppressing low-frequency attenuation in deeper layers. To further reduce redundancy, we propose a parameter-sharing strategy for LoRA matrices within Collect Blocks, where low-rank projections are shared across multiple layers. Extensive experiments on several benchmarks demonstrate that D2-RST not only outperforms existing PETL methods in accuracy but also significantly reduces parameter overhead by explicitly suppressing deep-layer feature forgetting."

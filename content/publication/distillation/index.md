@@ -1,19 +1,17 @@
 ---
-title: "A Technical Report on LLM Distillation"
+title: "Generalizable Geometric Image Caption Synthesis"
 authors:
 - admin
-- Shaotian Yan
-- Kaiyuan Liu
-- Rui Miao
-- Bing Wang
-- Sinan Fan
-- Chen Shen
-- Jieping Ye
-
+- Wenyuan Wang
+- Rui Pan
+- Howard Meng
+- Renjie Pi
+- Ruida Wang
+- Tong Zhang
 
 author_notes:
 - ""
-date: "2025-09-10T00:00:00Z"
+date: "2025-05-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +24,13 @@ publication_types: ["preprint"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "ICLR 2026"
+publication: "NeurIPS 2025"
 publication_short: ""
 
-abstract: ""
+abstract: "Multimodal large language models have various practical applications that demand strong reasoning abilities. Despite recent advancements in this area, these models still struggle to solve complex geometric problems. A key challenge stems from the lack of high-quality image-text pair datasets for understanding geometric images. Furthermore, most template-based data synthesis pipelines typically fail to generalize to questions outside their predefined templates. In this paper, we mitigate this issue by introducing a complementary RLHF process into the data generation pipeline. By adopting RAFT to adjust captions for image-text pairs generated from fewer than 50 templates and using reward signals derived from downstream mathematical problem-solving tasks, our pipeline successfully captures the key features of geometry problem-solving. This enables better task generalization and yields non-trivial improvements. Furthermore, the generated dataset also enhances the general mathematical reasoning capabilities of multimodal large language models beyond the domain of geometric mathematical problems, yielding accuracy improvements of 2.8%–5.3% in arithmetic, algebraic, and numerical tasks with even non-geometric input images."
 
 # Summary. An optional shortened abstract.
-summary: LLM, Data Distillation.
+summary: MLLM, Data Generation, Geometry, RLVR.
 
 # tags:
 # - Source Themes
@@ -42,7 +40,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 
+url_pdf: GeoReasoning.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -79,4 +77,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
-

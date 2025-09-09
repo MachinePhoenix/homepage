@@ -28,7 +28,7 @@ publication_types: ["preprint"]
 publication: "Arxiv"
 publication_short: ""
 
-abstract: "A report on Data Distillation."
+abstract: "To be continued."
 
 # Summary. An optional shortened abstract.
 summary: LLM, Data Distillation.
@@ -41,7 +41,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: GeoReasoning.pdf
+# url_pdf: 
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

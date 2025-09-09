@@ -84,5 +84,5 @@ I have a keen interest in machine learning, interpretable AI, and large (languag
 
 I am currently working with [Tong Zhang](https://tongzhang-ml.org/) as a research intern at [UIUC](https://illinois.edu/). Previously, I was lucky enough to collaborate with [Jieping Ye](http://www.yelabs.net/) @ [UMich](https://umich.edu/) and [Quanshi Zhang](http://qszhang.com/) @ [SJTU](https://www.sjtu.edu.cn/).
 
-A public up-to-date resume can be found [here](uploads/xy_cv_en.pdf). Feel free to contact me!
+A public up-to-date resume can be found [here](uploads/Academic_CV_en.pdf). Feel free to contact me!
 

@@ -10,6 +10,7 @@ authors:
 - Chen Shen
 - Jieping Ye
 
+
 author_notes:
 - ""
 date: "2025-09-10T00:00:00Z"
@@ -25,7 +26,7 @@ publication_types: ["preprint"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
+publication: "ICLR 2026"
 publication_short: ""
 
 abstract: ""
@@ -78,3 +79,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
+

@@ -39,12 +39,12 @@ featured: false
 
 links:
 # - name: Custom Link
-#   url: http://example.org
+url: https://machinephoenix.github.io/GeoReasoning_blog/
 url_pdf: GeoReasoning.pdf
 url_code: 'https://github.com/MachinePhoenix/GeoReasoning'
 url_dataset: 'https://huggingface.co/MMReasoning'
-url_poster: 'https://machinephoenix.github.io/GeoReasoning_blog/'
-# url_project: ''
+# url_poster: ''
+# url_project: 'https://machinephoenix.github.io/GeoReasoning_blog/'
 # url_slides: ''
 # url_source: ''
 # url_video: ''

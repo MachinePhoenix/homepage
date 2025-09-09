@@ -109,17 +109,30 @@ sections:
               * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICLR 2026 on submission)
 
 
+
+        - title: LLM Research Intern 
+          company: Hint Lab, WashU  
+          company_url: 'https://washu.edu/'
+          company_logo: washu
+          location: St. Louis, US
+          date_start: '2025-06-01'
+          date_end: ''
+          description: |2-
+              Advised by [Prof. Jiaxin Huang](https://teapot123.github.io/), my researches include:
+    
+              * Proposed a stepwise-perplexity-based method to analyze the long CoT pattern for data selection, after which removed the steps with low perplexity to construct a new dataset. Then conducted SFT and RL on the dataset to enhance the reasoning capacity of LLMs more efficiently without significant degradation of the output diversity. (ICLR 2026 under preparation)
+
         - title: MLLM Research Intern 
           company: Tong Zhang's Lab, UIUC  
           company_url: 'https://illinois.edu/'
           company_logo: uiuc
           location: Illinois, US
           date_start: '2025-03-01'
-          date_end: ''
+          date_end: '2025-08-01'
           description: |2-
               Advised by [Prof. Tong Zhang](https://tongzhang-ml.org/), my researches include:
     
-              * Proposed Geo-Image-Textualization, a reinforcement learning-based framework to generate high-quality and geometry-centered multimodal data by utilizing a rule-based data generation pipeline and adopting RAFT to further optimizing the captions. Then constructed a dataset named GeoReasoning-10K to bridge the gap between visual and linguistic modalities in the geometry domain. Extensive experiments verify the superiority of the dataset for improving multimodal reasoning capacity. (NeurIPS 2025 on submission)
+              * Proposed Geo-Image-Textualization, a reinforcement learning-based framework to generate high-quality and geometry-centered multimodal data by utilizing a rule-based data generation pipeline and adopting RAFT to further optimize the captions. Then constructed a dataset named GeoReasoning-10K to bridge the gap between visual and linguistic modalities in the geometry domain. Extensive experiments verify the superiority of the dataset for improving multimodal reasoning capacity. (NeurIPS 2025 on submission)
 
               
         - title: Interpretable LLM Research Intern 

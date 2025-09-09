@@ -141,12 +141,12 @@ sections:
           company_logo: aliyun
           location: Hangzhou, China
           date_start: '2024-03-01'
-          date_end: '2024-10-01'
+          date_end: '2025-03-31'
           description: |2-
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
     
               * Proposed SalaMAnder, a Shapley-value-based framework for quantifying component-level contributions in CoT reasoning. Specifically, we develop an efficient stratified sampling algorithm to compute Shapley value for mathematical expression attribution and CoSP (Cardinality of Shapley Positives) metric. Theoretical derivation and comprehensive validation across multiple models and benchmarks present a robust monotonic correlation between CoSP and model performance, providing theoretical explanations for the empirical success of CoT. (EMNLP 2025 accepted)
-              * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representation. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis. (ACL 2025 accepted)
+              * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representations. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis. (ACL 2025 accepted)
               * Explored the mechanism of LLM distillation and explained the pattern of long CoT, after which significantly improved the distilled model’s reasoning capacity.
          
     
@@ -175,9 +175,9 @@ sections:
           description: |2-
               Advised by [Prof. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
 
-              * Developped Swin Transformer based model to implemente instance segmentation of workpiece welding area.
+              * Developed a Swin Transformer-based model to implement instance segmentation of the workpiece welding area.
               * Designed a space-time filter to remove false positive samples in pedestrian detection. 
-              * Developped YOLOv5-based model to detect tower crane, recognize dangerous tower crane, and label electronic fence.
+              * Developed a YOLOv5-based model to detect tower cranes, recognize dangerous tower cranes, and label the  electronic fence.
     design:
       columns: '1'
     

@@ -123,7 +123,7 @@ sections:
               * Proposed a perplexity-based method to analyze the long CoT pattern for data selection, after which removed the steps with low perplexity to construct a new dataset. Then conducted SFT and RL on the dataset to enhance the reasoning capacity of LLMs more efficiently without significant degradation of the output diversity. (ICLR 2026 under preparation)
 
         - title: MLLM Research Intern 
-          company: Tong Zhang's Lab, UIUC  
+          company: Tong's Lab, UIUC  
           company_url: 'https://illinois.edu/'
           company_logo: uiuc
           location: Illinois, US

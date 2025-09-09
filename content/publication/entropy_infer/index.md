@@ -1,5 +1,5 @@
 ---
-title: "Entropy-Guided Adaptive Inference: Towards Self-Correcting Inference in Large Language Models"
+title: "Perplexity-Aware Pruning for Efficient Chain-of-Thought Distillation"
 authors:
 - admin
 - Jiaxin Huang
@@ -26,7 +26,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: LLM, Entropy.
+summary: LLM, Perplexity, Long CoT.
 
 # tags:
 # - Source Themes

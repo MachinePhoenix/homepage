@@ -148,8 +148,8 @@ sections:
           description: |2-
               Advised by [Prof. Quanshi Zhang](http://qszhang.com/), my researches include:
 
-              * Theoretically derived the analytical solution for multi-step adversarial attacks, which explains the reasons behind the optimization difficulties in adversarial training. This is validated through experimental results. (Accepted by AAAI 2024)
-              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (Accepted by NeurIPS 2024)
+              * Theoretically derived the analytical solution for multi-step adversarial attacks, which explains the reasons behind the optimization difficulties in adversarial training. This is validated through experimental results. (AAAI 2024 accepted)
+              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (NeurIPS 2024 accepted)
               * Theoretically derived and validated the robustness of concepts with different complexities.
         
         - title: Machine Learning and Computer Vision Intern

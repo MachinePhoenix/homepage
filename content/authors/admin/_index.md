@@ -78,7 +78,7 @@ email: <xinyuexiong@sjtu.edu.cn>
 highlight_name: true
 ---
 
-I am a third-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), Shanghai Jiao Tong University, advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). During my undergraduate studies, I majored in Electronic Science and Technology and minored in Computer Science at SJTU.
+I am a third-year M.S. student at [Institute of Media, Information, and Network (min)](https://min.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20). During my undergraduate studies, I majored in Electronic Science and Technology and minored in Computer Science at SJTU.
 
 I have a keen interest in machine learning, interpretable AI, and large (language) models. Now I am focusing on reasoning models.
 

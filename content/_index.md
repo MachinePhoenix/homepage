@@ -102,11 +102,11 @@ sections:
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
     
-              * Proposed Chebyshev Fusion Unit (CFU), a lightweight feature fusion method to mitigate the challenge of balancing expressiveness and efficiency. Specifically, CFU computed high-order Chebyshev polynomial terms between residual and current-layer features to explicitly model complex cross-layer dependencies with minimal parameters. Comprehensive experiments vefify its strong approximation and optimization capability. (VCIP 2025 on submission)
-              * Proposed Dual-Dimensional Residual Side Tuning (D2-RST) framework to mitigate feature forgetting and progressive spectral decay in deep layers by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing additional spatial-dimension pathway in parallel with the feature-dimension pathway. The properties and performance of RST is verified through mathematical proof and various experiments. (BMVC 2025 on submission)
+              * Proposed Chebyshev Fusion Unit (CFU), a lightweight feature fusion method to mitigate the challenge of balancing expressiveness and efficiency. Specifically, CFU computed high-order Chebyshev polynomial terms between residual and current-layer features to explicitly model complex cross-layer dependencies with minimal parameters. Comprehensive experiments verify its strong approximation and optimization capability. (VCIP 2025 on submission)
+              * Proposed Dual-Dimensional Residual Side Tuning (D2-RST) framework to mitigate feature forgetting and progressive spectral decay in deep layers by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing an additional spatial-dimension pathway in parallel with the feature-dimension pathway. The properties and performance of RST are verified through mathematical proof and various experiments. (BMVC 2025 on submission)
               * Proposed Chebyshev-Attention-Based Semi-Unet (CASUNet), a noise-resilient framework integrating a Semi-UNet backbone with a novel CPA (Chebyshev Polynomial Aggregation) module by first aggregating hierarchical features then expanding to orthogonal polynomial terms. Theoretical and experimental analysis verify its superior noise immunity and competitive performance. (WACV 2026 on Submission)
               * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ECAI 2025 accepted)
-              * Proposed PAT, a fault-tolerant multimodal classifer to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporats contrastive learning loss to enhance model performance and generalization. (ICLR 2026 on submission)
+              * Proposed PAT, a fault-tolerant multimodal classifier to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporates contrastive learning loss to enhance model performance and generalization. (ICLR 2026 on submission)
 
 
 
@@ -120,7 +120,7 @@ sections:
           description: |2-
               Advised by [Prof. Jiaxin Huang](https://teapot123.github.io/), my researches include:
     
-              * Proposed a stepwise-perplexity-based method to analyze the long CoT pattern for data selection, after which removed the steps with low perplexity to construct a new dataset. Then conducted SFT and RL on the dataset to enhance the reasoning capacity of LLMs more efficiently without significant degradation of the output diversity. (ICLR 2026 under preparation)
+              * Proposed a perplexity-based method to analyze the long CoT pattern for data selection, after which removed the steps with low perplexity to construct a new dataset. Then conducted SFT and RL on the dataset to enhance the reasoning capacity of LLMs more efficiently without significant degradation of the output diversity. (ICLR 2026 under preparation)
 
         - title: MLLM Research Intern 
           company: Tong Zhang's Lab, UIUC  
@@ -147,7 +147,7 @@ sections:
     
               * Proposed SalaMAnder, a Shapley-value-based framework for quantifying component-level contributions in CoT reasoning. Specifically, we develop an efficient stratified sampling algorithm to compute Shapley value for mathematical expression attribution and CoSP (Cardinality of Shapley Positives) metric. Theoretical derivation and comprehensive validation across multiple models and benchmarks present a robust monotonic correlation between CoSP and model performance, providing theoretical explanations for the empirical success of CoT. (EMNLP 2025 accepted)
               * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representation. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis. (ACL 2025 accepted)
-              * Explored the mechanism of LLM distillation and explained the pattern of long CoT, after which significantly improved the distilled-model’s reasoning capacity.
+              * Explored the mechanism of LLM distillation and explained the pattern of long CoT, after which significantly improved the distilled model’s reasoning capacity.
          
     
         

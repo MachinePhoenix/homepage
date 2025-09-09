@@ -25,7 +25,7 @@ publication_types: ["preprint"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "technical report"
+publication: "Arxiv"
 publication_short: ""
 
 abstract: ""

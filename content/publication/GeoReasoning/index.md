@@ -42,7 +42,7 @@ links:
 # url: 
 url_pdf: GeoReasoning.pdf
 url_code: 'https://github.com/MachinePhoenix/GeoReasoning'
-url_dataset: 'https://huggingface.co/MMReasoning'
+url_dataset: 'https://huggingface.co/datasets/ScaleMath/GeoReasoning'
 # url_poster: ''
 url_project: 'https://machinephoenix.github.io/GeoReasoning_blog/'
 # url_slides: ''

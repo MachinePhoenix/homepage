@@ -77,7 +77,7 @@ sections:
       order: asc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '1'
   - block: experience
     id: research

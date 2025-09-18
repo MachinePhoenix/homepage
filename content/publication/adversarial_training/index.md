@@ -1,5 +1,6 @@
 ---
 title: "Clarifying the Behavior and the Difficulty of Adversarial Training"
+information: AAAI
 authors:
 - Xu Cheng
 - Hao Zhang

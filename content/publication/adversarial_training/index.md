@@ -1,5 +1,5 @@
 ---
-title: "Clarifying the Behavior and the Difficulty of Adversarial Training **AAAI 2024 Accepted**"
+title: "Clarifying the Behavior and the Difficulty of Adversarial Training" **AAAI**
 authors:
 - Xu Cheng
 - Hao Zhang

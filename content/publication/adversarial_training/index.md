@@ -8,6 +8,8 @@ authors:
 - Jie Ren
 - Quanshi Zhang
 
+AAAI 2024 Accepted
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

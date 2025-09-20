@@ -2,13 +2,13 @@
 title: "Enhancing Chain-of-Thought Reasoning with Critical Representation Fine-tuning"
 authors:
 - Chenxi Huang
-- Liang Xie
-- Chen Shen
 - Shaotian Yan
-- Sinan Fan
-- admin
+- Liang Xie
 - Binbin Lin
+- Sinan Fan 
+- admin
 - Deng Cai
+- Chen Shen
 - Jieping Ye
 
 author_notes:
@@ -28,7 +28,7 @@ publication_types: ["paper-conference"]
 publication: "ACL 2025"
 publication_short: ""
 
-abstract: "Representation Fine-tuning (ReFT), a recently proposed Parameter-Efficient Fine-Tuning (PEFT) method, has attracted widespread attention for significantly improving parameter efficiency by editing representation space alone. In this work, we investigate applying ReFT to complex reasoning tasks. However, directly using the native ReFT method, which modifies fixed representations at the beginning and end of each layer, yields suboptimal performance, as these fixed-position representations have uncertain impact on the outputs. We observe that, in complex reasoning tasks, there often exist certain critical representations. These representations either integrate significant information from preceding layers or regulate subsequent layer representations. Through layer-by-layer propagation, they exert a substantial influence on the final output. Naturally, fine-tuning these critical representations has the potential to greatly enhance reasoning performance. Building upon these insights, we propose \textbf{C}ritical \textbf{R}epresentation \textbf{F}ine-\textbf{T}uning (CRFT), a novel method that identifies and optimizes these critical representations through information flow analysis. CRFT operates within a supervised learning framework, dynamically optimizing critical representations in a low-rank linear subspace while freezing the base model. The effectiveness and efficiency of our method are validated across eight benchmarks for arithmetic and commonsense reasoning, using LLaMA and Mistral model families. Notably, our method improves the accuracy of LLaMA-2-7B and ReFT by 18.2 and 3.8, respectively, on GSM8K, while using only 0.016 of the model parameters, significantly less than other PEFT methods. Furthermore, our method also adapts effectively to few-shot settings, boosting one-shot accuracy by 16.4. Our work highlights the untapped potential of representation-level optimization for CoT reasoning, offering a lightweight yet powerful alternative to traditional PEFT methods."
+abstract: "Representation Fine-tuning (ReFT), a recently proposed Parameter-Efficient Fine-Tuning (PEFT) method, has attracted widespread attention for significantly improving parameter efficiency by editing representation space alone. In this work, we investigate applying ReFT to complex reasoning tasks. However, directly using the native ReFT method, which modifies fixed representations at the beginning and end of each layer, yields suboptimal performance, as these fixed-position representations have uncertain impact on the outputs. We observe that, in complex reasoning tasks, there often exist certain critical representations. These representations either integrate significant information from preceding layers or regulate subsequent layer representations. Through layer-by-layer propagation, they exert a substantial influence on the final output. Naturally, fine-tuning these critical representations has the potential to greatly enhance reasoning performance. Building upon these insights, we propose **C**ritical **R**epresentation **F**ine-**T**uning (CRFT), a novel method that identifies and optimizes these critical representations through information flow analysis. CRFT operates within a supervised learning framework, dynamically optimizing critical representations in a low-rank linear subspace while freezing the base model. The effectiveness and efficiency of our method are validated across eight benchmarks for arithmetic and commonsense reasoning, using LLaMA and Mistral model families. Notably, our method improves the accuracy of LLaMA-2-7B and ReFT by 18.2 and 3.8, respectively, on GSM8K, while using only 0.016 of the model parameters, significantly less than other PEFT methods. Furthermore, our method also adapts effectively to few-shot settings, boosting one-shot accuracy by 16.4. Our work highlights the untapped potential of representation-level optimization for CoT reasoning, offering a lightweight yet powerful alternative to traditional PEFT methods."
 # Summary. An optional shortened abstract.
 summary: LLM, CoT, Interpretability, ReFT.
 
@@ -39,7 +39,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: CRFT.pdf
+url_pdf: https://aclanthology.org/2025.acl-long.1129.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

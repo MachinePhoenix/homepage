@@ -38,8 +38,8 @@ featured: false
 
 links:
 # - name: Custom Link
-#   url: http://example.org
-url_pdf: https://aclanthology.org/2025.acl-long.1129.pdf
+url: https://aclanthology.org/2025.acl-long.1129.pdf
+url_pdf: 'https://aclanthology.org/2025.acl-long.1129.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -41,7 +41,7 @@ featured: false
 
 links:
 # - name: Custom Link
-# url: 
+url: 'https://arxiv.org/pdf/2509.15217'
 url_pdf: 'https://arxiv.org/pdf/2509.15217'
 url_code: 'https://github.com/MachinePhoenix/GeoReasoning'
 url_dataset: 'https://huggingface.co/datasets/ScaleMath/GeoReasoning'

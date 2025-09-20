@@ -1,12 +1,13 @@
 ---
 title: "Generalizable Geometric Image Caption Synthesis"
 authors:
-- admin
-- Wenyuan Wang
-- Rui Pan
+- admin*
+- Wenyuan Wang*
+- Rui Pan*
+- Ruida Wang
 - Howard Meng
 - Renjie Pi
-- Ruida Wang
+- Shizhe DIao
 - Tong Zhang
 
 author_notes:
@@ -27,7 +28,8 @@ publication_types: ["preprint"]
 publication: "NeurIPS 2025"
 publication_short: ""
 
-abstract: "Multimodal large language models have various practical applications that demand strong reasoning abilities. Despite recent advancements in this area, these models still struggle to solve complex geometric problems. A key challenge stems from the lack of high-quality image-text pair datasets for understanding geometric images. Furthermore, most template-based data synthesis pipelines typically fail to generalize to questions outside their predefined templates. In this paper, we mitigate this issue by introducing a complementary RLHF process into the data generation pipeline. By adopting RAFT to adjust captions for image-text pairs generated from fewer than 50 templates and using reward signals derived from downstream mathematical problem-solving tasks, our pipeline successfully captures the key features of geometry problem-solving. This enables better task generalization and yields non-trivial improvements. Furthermore, the generated dataset also enhances the general mathematical reasoning capabilities of multimodal large language models beyond the domain of geometric mathematical problems, yielding accuracy improvements of 2.8%–5.3% in arithmetic, algebraic, and numerical tasks with even non-geometric input images."
+abstract: "Multimodal large language models have various practical applications that demand strong reasoning abilities. Despite recent advancements, these models still struggle to solve complex geometric problems. A key challenge stems from the lack of high-quality image-text pair datasets for understanding geometric images. Furthermore, most template-based data synthesis pipelines typically fail
+to generalize to questions beyond their predefined templates. In this paper, we mitigate this issue by introducing a complementary RLHF process into the data generation pipeline. By adopting RAFT to refine captions for image-text pairs generated from approximately 50 templates and using reward signals derived from mathematical problem-solving tasks, our pipeline successfully captures the key features of geometry problem-solving. This enables better task generalization and yields non-trivial improvements. Furthermore, the generated dataset also enhances the general mathematical reasoning capabilities of multimodal large language models beyond the domain of geometric problems, yielding accuracy improvements of 3.1%–5.5% in arithmetic, algebraic, and numerical tasks even with non-geometric input images."
 
 # Summary. An optional shortened abstract.
 summary: MLLM, Data Generation, Geometry, RLVR.
@@ -40,7 +42,7 @@ featured: false
 links:
 # - name: Custom Link
 # url: 
-url_pdf: GeoReasoning.pdf
+url_pdf: 'https://arxiv.org/pdf/2509.15217'
 url_code: 'https://github.com/MachinePhoenix/GeoReasoning'
 url_dataset: 'https://huggingface.co/datasets/ScaleMath/GeoReasoning'
 # url_poster: ''

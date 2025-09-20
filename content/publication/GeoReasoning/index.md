@@ -1,13 +1,13 @@
 ---
 title: "Generalizable Geometric Image Caption Synthesis"
 authors:
-- admin*
-- Wenyuan Wang*
-- Rui Pan*
+- admin
+- Wenyuan Wang
+- Rui Pan
 - Ruida Wang
 - Howard Meng
 - Renjie Pi
-- Shizhe DIao
+- Shizhe Diao
 - Tong Zhang
 
 author_notes:

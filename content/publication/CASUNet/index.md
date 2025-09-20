@@ -1,5 +1,5 @@
 ---
-title: "Towards Noise-Robust Medical Segmentation via Chebyshev-Attention-Based UNet"
+title: "Towards Noise-Robust Medical Segmentation via Chebyshev-Attention-Based Asymmetric UNet"
 authors:
 - admin
 - Ziyang Zheng
@@ -26,7 +26,7 @@ publication_types: ["preprint"]
 publication: "WACV 2026"
 publication_short: ""
 
-abstract: "Existing medical image segmentation methods based on UNet architectures exhibit significant noise sensitivity due to cascaded feature propagation in symmetric encoder-decoder paths and linear feature fusion mechanisms. To address this, we propose \textbf{CASUNet (Chebyshev-Attention-Based Semi-UNet)}, a noise-resilient framework integrating a \textbf{Semi-UNet} backbone with a novel \textbf{CPA (Chebyshev Polynomial Aggregation)} module. Specifically, CASUNet aggregates hierarchical representations by grouping multi-scale features into distinct low- and high-resolution branches rather than sequentially upsampling, effectively mitigating noise sensitivity through isolated feature processing. Furthermore, CASUNet introduces the CPA mechanism where hierarchical features are expanded into orthogonal polynomial terms, enhancing feature fusion capacity beyond linear aggregation while ensuring noise robustness through a carefully designed polynomial-normalization. The proposed model delivers superior noise immunity and competitive performance compared to state-of-the-art approaches with significantly enhanced parameter efficiency."
+abstract: "Existing medical image segmentation methods based on UNet architectures exhibit significant noise sensitivity due to cascaded feature propagation in symmetric encoder-decoder paths and linear feature fusion mechanisms. To address this, we propose \textbf{CASUNet} (\textbf{C}hebyshev-\textbf{A}ttention-Based A\textbf{s}ymmetric UNet), a noise-resilient framework integrating an asymmetric \textbf{UNet} backbone with a novel \textbf{CPA} (\textbf{C}hebyshev \textbf{P}olynomial \textbf{A}ggregation) module. Specifically, CASUNet aggregates hierarchical representations by grouping multi-scale features into distinct low- and high-resolution branches rather than sequentially upsampling, effectively mitigating noise sensitivity through isolated feature processing. Furthermore, CASUNet introduces the CPA mechanism where hierarchical features are expanded into orthogonal polynomial terms, enhancing feature fusion capacity beyond linear aggregation while ensuring noise robustness through a carefully designed polynomial-normalization. Theoretical analysis establishes desirable properties of the proposed model, while extensive experiments verify its superior noise immunity and competitive performance compared to state-of-the-art approaches with significantly enhanced parameter efficiency."
 
 # Summary. An optional shortened abstract.
 summary: Medical Image Segmentation, Noise, UNet, Chebyshev Polynomial.

@@ -39,7 +39,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf:D2_RST.pdf
+url_pdf: D2-RST.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

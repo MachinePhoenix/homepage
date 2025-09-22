@@ -479,20 +479,20 @@ sections:
   #     view: card
 
   #原publication模板，适合posts
-  # - block: collection
-  #   content:
-  #     title: Recent Posts
+  - block: collection
+    content:
+    title: Recent Posts
   #     # text: |-
   #     #   {{% callout note %}}
   #     #   Quickly discover relevant content by [filtering publications](./publication/).
   #     #   {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - post
-  #       exclude_featured: false
-  #   design:
-  #     columns: '2'
-  #     view: citation
+      filters:
+      folders:
+          - post
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
   
   - block: experience
     id: activity

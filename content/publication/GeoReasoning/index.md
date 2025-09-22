@@ -41,12 +41,12 @@ featured: false
 
 links:
 # - name: Custom Link
-url: 'https://arxiv.org/abs/2509.15217'
-url_pdf: 'https://arxiv.org/pdf/2509.15217'
-url_code: 'https://github.com/MachinePhoenix/GeoReasoning'
-url_dataset: 'https://huggingface.co/datasets/ScaleMath/GeoReasoning'
+url: https://arxiv.org/abs/2509.15217
+url_pdf: https://arxiv.org/pdf/2509.15217
+url_code: https://github.com/MachinePhoenix/GeoReasoning
+url_dataset: https://huggingface.co/datasets/ScaleMath/GeoReasoning
 # url_poster: ''
-url_project: 'https://machinephoenix.github.io/GeoReasoning_blog/'
+url_project: https://machinephoenix.github.io/GeoReasoning_blog/
 # url_slides: ''
 # url_source: ''
 # url_video: ''

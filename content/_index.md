@@ -478,7 +478,7 @@ sections:
   #     columns: '2'
   #     view: card
 
-  #原publication模板，适合posts
+  # 原publication模板，适合posts
   - block: collection
     content:
     title: Recent Posts

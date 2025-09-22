@@ -38,7 +38,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29032/29956
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29032
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

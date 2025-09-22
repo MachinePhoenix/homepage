@@ -486,13 +486,13 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      filters:
-      folders:
-          - post
-        exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
+      # filters:
+      # folders:
+          # - post
+        # exclude_featured: false
+    # design:
+      # columns: '1'
+      # view: citation
   
   - block: experience
     id: activity

@@ -51,7 +51,7 @@ sections:
   #     username: admin
   
   
-    #原posts模板，可用于publications
+  # 原posts模板，可用于publications
   - block: collection
     id: publication
     content:

@@ -100,17 +100,6 @@ sections:
           date_end: ''
           description: |2-
               Advised by [Prof. Hongkai Xiong](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=14) and [Prof. Wenrui Dai](https://min.sjtu.edu.cn/En/FacultyShow/4?Vid=20), my researches include:
-    
-              * Proposed Chebyshev Fusion Unit (CFU), a lightweight feature fusion method to mitigate the challenge of balancing expressiveness and efficiency. Specifically, CFU computed high-order Chebyshev polynomial terms between residual and current-layer features to explicitly model complex cross-layer dependencies with minimal parameters. Comprehensive experiments verify its strong approximation and optimization capability. (VCIP 2025 accepted)
-              * Proposed Dual-Dimensional Residual Side Tuning (D2-RST) framework to mitigate feature forgetting and progressive spectral decay in deep layers by employing a dual-block side-tuning structure with low-rank linear mapping on aggregated features, and introducing an additional spatial-dimension pathway in parallel with the feature-dimension pathway. The properties and performance of RST are verified through mathematical proof and various experiments. (WACV 2026 on submission)
-
-              * Proposed Chebyshev-Attention-Based Semi-Unet (CASUNet), a noise-resilient framework integrating a Semi-UNet backbone with a novel CPA (Chebyshev Polynomial Aggregation) module by first aggregating hierarchical features then expanding to orthogonal polynomial terms. Theoretical and experimental analysis verify its superior noise immunity and competitive performance. (WACV 2026 on Submission)
-
-              * Proposed GLEAM, an efficient fine-tuning method for large model parameters. This method leverages the high similarity of parameter matrices in LoRA to construct a low-rank decomposition, further reducing the number of parameters required for fine-tuning while enhancing performance. (ECAI 2025 accepted)
-
-              * Proposed PAT, a fault-tolerant multimodal classifier to solve the problem of conflict between prompter learning and adapter tuning. Specifically, it aligns model representations obtained from Soft Prompt and Adapter-based methods and incorporates contrastive learning loss to enhance model performance and generalization. (ICLR 2026 on submission)
-
-
 
         - title: LLM Research Intern 
           company: Hint Lab, WashU  
@@ -121,8 +110,7 @@ sections:
           date_end: ''
           description: |2-
               Advised by [Prof. Jiaxin Huang](https://teapot123.github.io/), my researches include:
-    
-              * Proposed a perplexity-based method to analyze the long CoT pattern for data selection, after which removed the steps with low perplexity to construct a new dataset. Then conducted SFT and RL on the dataset to enhance the reasoning capacity of LLMs more efficiently without significant degradation of the output diversity. (ICLR 2026 on submission)
+
 
         - title: MLLM Research Intern 
           company: Tong's Lab, UIUC  
@@ -147,13 +135,6 @@ sections:
           description: |2-
               Advised by [Prof. Jieping Ye](http://www.yelabs.net/), my researches include:
     
-              * Proposed SalaMAnder, a Shapley-value-based framework for quantifying component-level contributions in CoT reasoning. Specifically, we develop an efficient stratified sampling algorithm to compute Shapley value for mathematical expression attribution and CoSP (Cardinality of Shapley Positives) metric. Theoretical derivation and comprehensive validation across multiple models and benchmarks present a robust monotonic correlation between CoSP and model performance, providing theoretical explanations for the empirical success of CoT. (EMNLP 2025 accepted)
-
-              * Proposed CRFT, a novel method that identifies and optimizes critical representations that integrate significant information from preceding layers or regulate subsequent layer representations. CRFT effectively optimizes the representations in a low-rank linear subspace through information flow analysis. (ACL 2025 accepted)
-
-              * Explored the mechanism of LLM distillation and explained the pattern of long CoT, after which significantly improved the distilled model’s reasoning capacity.
-         
-    
         
         - title: Interpretable Machine Learning Intern
           company: Interpretable ML Lab, SJTU
@@ -165,12 +146,6 @@ sections:
           description: |2-
               Advised by [Prof. Quanshi Zhang](http://qszhang.com/), my researches include:
 
-              * Theoretically derived the analytical solution for multi-step adversarial attacks, which explains the reasons behind the optimization difficulties in adversarial training. This is validated through experimental results. (AAAI 2024 accepted)
-
-              * Theoretically derived the two-stage dynamic interaction process of DNNs, proving that the network learning process gradually encodes interactions of varying complexity. This provides a theoretical foundation for understanding overfitting. (NeurIPS 2024 accepted)
-
-              * Theoretically derived and validated the robustness of concepts with different complexities.
-        
         - title: Machine Learning and Computer Vision Intern
           company: SunnyLab, SJTU
           company_url: ''
@@ -181,11 +156,6 @@ sections:
           description: |2-
               Advised by [Prof. Chongyang Zhang](https://faculty.sjtu.edu.cn/zhangchongyang/zh_CN/index/177811/list/index.htm), my researches include:
 
-              * Developed a Swin Transformer-based model to implement instance segmentation of the workpiece welding area.
-
-              * Designed a space-time filter to remove false positive samples in pedestrian detection. 
-
-              * Developed a YOLOv5-based model to detect tower cranes, recognize dangerous tower cranes, and label the  electronic fence.
     design:
       columns: '1'
     
